@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTENTIFIKATOR"
+    },
+    "description_title": {
+        "message": "Siguran i šifrovan menadžer 2FA kodova dizajniran za zaštitu korisničkih podataka i bezbednost."
+    },
+    "placeholder_input": {
+        "message": "Unesite 2FA kod: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Obrada u toku..."
+    },
+    "button_get": {
+        "message": "Preuzmi"
+    },
+    "title_create": {
+        "message": "NAPRAVI 2FA"
+    },
+    "description_title_create": {
+        "message": "Unesite informacije o 2FA kodu koje želite da sačuvate."
+    },
+    "label_website": {
+        "message": "Veb sajt"
+    },
+    "label_account": {
+        "message": "Nalog"
+    },
+    "label_secret_key": {
+        "message": "Tajni ključ"
+    },
+    "button_create_running": {
+        "message": "Pravljenje u toku..."
+    },
+    "button_create": {
+        "message": "Napravi"
+    },
+    "button_cancel": {
+        "message": "Otkaži"
+    },
+    "message_get_code_empty": {
+        "message": "Tajni kod ne sme biti prazan."
+    },
+    "message_get_code_success": {
+        "message": "2FA kod je uspešno preuzet i kopiran u privremenu memoriju."
+    },
+    "message_get_code_error": {
+        "message": "Greška pri preuzimanju 2FA koda."
+    },
+    "message_copy_success": {
+        "message": "Uspešno kopirano u privremenu memoriju."
+    },
+    "message_copy_error": {
+        "message": "Greška pri kopiranju u privremenu memoriju."
+    },
+    "message_delete_success": {
+        "message": "Ključ je uspešno obrisan."
+    },
+    "message_delete_error": {
+        "message": "Greška pri brisanju ključa."
+    },
+    "message_create_qr_error": {
+        "message": "Greška pri generisanju QR koda."
+    },
+    "message_scan_qr_error": {
+        "message": "Greška pri skeniranju QR koda."
+    },
+    "message_get_list_secret_key": {
+        "message": "Greška pri dobijanju liste ključeva."
+    },
+    "message_website_empty": {
+        "message": "Veb sajt ne može biti prazan."
+    },
+    "message_account_empty": {
+        "message": "Nalog ne može biti prazan."
+    },
+    "message_secret_key_empty": {
+        "message": "Tajni ključ ne može biti prazan."
+    },
+    "message_add_success": {
+        "message": "Uspešno dodato."
+    },
+    "message_add_error": {
+        "message": "Greška pri čuvanju ključa."
+    },
+    "placeholder_search": {
+        "message": "Претрага"
+    }
+}

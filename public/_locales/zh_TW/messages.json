@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "驗證器"
+    },
+    "description_title": {
+        "message": "一個安全且加密的 2FA 驗證碼管理器，旨在保護使用者資料並確保安全性。"
+    },
+    "placeholder_input": {
+        "message": "輸入 2FA 驗證碼：BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "處理中..."
+    },
+    "button_get": {
+        "message": "取得"
+    },
+    "title_create": {
+        "message": "建立 2FA"
+    },
+    "description_title_create": {
+        "message": "輸入您想要儲存的 2FA 驗證碼資訊。"
+    },
+    "label_website": {
+        "message": "網站"
+    },
+    "label_account": {
+        "message": "帳號"
+    },
+    "label_secret_key": {
+        "message": "密鑰"
+    },
+    "button_create_running": {
+        "message": "建立中..."
+    },
+    "button_create": {
+        "message": "建立"
+    },
+    "button_cancel": {
+        "message": "取消"
+    },
+    "message_get_code_empty": {
+        "message": "密鑰不可為空。"
+    },
+    "message_get_code_success": {
+        "message": "成功取得 2FA 驗證碼並已複製到剪貼簿。"
+    },
+    "message_get_code_error": {
+        "message": "取得 2FA 驗證碼時發生錯誤。"
+    },
+    "message_copy_success": {
+        "message": "成功複製到剪貼簿。"
+    },
+    "message_copy_error": {
+        "message": "複製到剪貼簿時發生錯誤。"
+    },
+    "message_delete_success": {
+        "message": "成功刪除密鑰。"
+    },
+    "message_delete_error": {
+        "message": "刪除密鑰時發生錯誤。"
+    },
+    "message_create_qr_error": {
+        "message": "產生 QR 碼時發生錯誤。"
+    },
+    "message_scan_qr_error": {
+        "message": "掃描 QR 碼時發生錯誤。"
+    },
+    "message_get_list_secret_key": {
+        "message": "取得密鑰清單時發生錯誤。"
+    },
+    "message_website_empty": {
+        "message": "網站不能為空。"
+    },
+    "message_account_empty": {
+        "message": "帳號不能為空。"
+    },
+    "message_secret_key_empty": {
+        "message": "密鑰不能為空。"
+    },
+    "message_add_success": {
+        "message": "新增成功。"
+    },
+    "message_add_error": {
+        "message": "儲存密鑰時發生錯誤。"
+    },
+    "placeholder_search": {
+        "message": "搜尋"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "DOĞRULAYICI"
+    },
+    "description_title": {
+        "message": "Kullanıcı verilerini korumak ve güvenliği sağlamak için tasarlanmış, güvenli ve şifrelenmiş 2FA kod yöneticisi."
+    },
+    "placeholder_input": {
+        "message": "2FA kodunu girin: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "İşleniyor..."
+    },
+    "button_get": {
+        "message": "Al"
+    },
+    "title_create": {
+        "message": "2FA OLUŞTUR"
+    },
+    "description_title_create": {
+        "message": "Saklamak istediğiniz 2FA kod bilgilerini girin."
+    },
+    "label_website": {
+        "message": "Web sitesi"
+    },
+    "label_account": {
+        "message": "Hesap"
+    },
+    "label_secret_key": {
+        "message": "Gizli anahtar"
+    },
+    "button_create_running": {
+        "message": "Oluşturuluyor..."
+    },
+    "button_create": {
+        "message": "Oluştur"
+    },
+    "button_cancel": {
+        "message": "İptal"
+    },
+    "message_get_code_empty": {
+        "message": "Gizli anahtar boş olamaz."
+    },
+    "message_get_code_success": {
+        "message": "2FA kodu başarıyla alındı ve pano'ya kopyalandı."
+    },
+    "message_get_code_error": {
+        "message": "2FA kodu alınırken hata oluştu."
+    },
+    "message_copy_success": {
+        "message": "Pano'ya başarıyla kopyalandı."
+    },
+    "message_copy_error": {
+        "message": "Pano'ya kopyalama hatası."
+    },
+    "message_delete_success": {
+        "message": "Anahtar başarıyla silindi."
+    },
+    "message_delete_error": {
+        "message": "Anahtar silinirken hata oluştu."
+    },
+    "message_create_qr_error": {
+        "message": "QR kod oluşturulurken hata oluştu."
+    },
+    "message_scan_qr_error": {
+        "message": "QR kod taranırken hata oluştu."
+    },
+    "message_get_list_secret_key": {
+        "message": "Anahtar listesi alınırken hata oluştu."
+    },
+    "message_website_empty": {
+        "message": "Web sitesi boş olamaz."
+    },
+    "message_account_empty": {
+        "message": "Hesap boş olamaz."
+    },
+    "message_secret_key_empty": {
+        "message": "Gizli anahtar boş olamaz."
+    },
+    "message_add_success": {
+        "message": "Başarıyla eklendi."
+    },
+    "message_add_error": {
+        "message": "Anahtar kaydedilirken hata oluştu."
+    },
+    "placeholder_search": {
+        "message": "Ara"
+    }
+}

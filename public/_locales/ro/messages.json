@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTENTIFICATOR"
+    },
+    "description_title": {
+        "message": "Un manager sigur și criptat pentru coduri 2FA, conceput pentru a proteja datele utilizatorilor și a asigura securitatea."
+    },
+    "placeholder_input": {
+        "message": "Introduceți codul 2FA: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Se procesează..."
+    },
+    "button_get": {
+        "message": "Obține"
+    },
+    "title_create": {
+        "message": "CREARE 2FA"
+    },
+    "description_title_create": {
+        "message": "Introduceți informațiile codului 2FA pe care doriți să le salvați."
+    },
+    "label_website": {
+        "message": "Site web"
+    },
+    "label_account": {
+        "message": "Cont"
+    },
+    "label_secret_key": {
+        "message": "Cheie secretă"
+    },
+    "button_create_running": {
+        "message": "Se creează..."
+    },
+    "button_create": {
+        "message": "Creează"
+    },
+    "button_cancel": {
+        "message": "Anulează"
+    },
+    "message_get_code_empty": {
+        "message": "Codul secret nu poate fi gol."
+    },
+    "message_get_code_success": {
+        "message": "Codul 2FA a fost obținut cu succes și copiat în clipboard."
+    },
+    "message_get_code_error": {
+        "message": "Eroare la obținerea codului 2FA."
+    },
+    "message_copy_success": {
+        "message": "Copiat în clipboard cu succes."
+    },
+    "message_copy_error": {
+        "message": "Eroare la copierea în clipboard."
+    },
+    "message_delete_success": {
+        "message": "Cheia a fost ștearsă cu succes."
+    },
+    "message_delete_error": {
+        "message": "Eroare la ștergerea cheii."
+    },
+    "message_create_qr_error": {
+        "message": "Eroare la generarea codului QR."
+    },
+    "message_scan_qr_error": {
+        "message": "Eroare la scanarea codului QR."
+    },
+    "message_get_list_secret_key": {
+        "message": "Eroare la obținerea listei de chei."
+    },
+    "message_website_empty": {
+        "message": "Site-ul nu poate fi gol."
+    },
+    "message_account_empty": {
+        "message": "Contul nu poate fi gol."
+    },
+    "message_secret_key_empty": {
+        "message": "Cheia secretă nu poate fi goală."
+    },
+    "message_add_success": {
+        "message": "Adăugat cu succes."
+    },
+    "message_add_error": {
+        "message": "Eroare la salvarea cheii."
+    },
+    "placeholder_search": {
+        "message": "Căutare"
+    }
+}

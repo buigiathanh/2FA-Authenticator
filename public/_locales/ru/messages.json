@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "АУТЕНТИФИКАТОР"
+    },
+    "description_title": {
+        "message": "Безопасный и зашифрованный менеджер 2FA-кодов, разработанный для защиты данных пользователя и обеспечения безопасности."
+    },
+    "placeholder_input": {
+        "message": "Введите код 2FA: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Обработка..."
+    },
+    "button_get": {
+        "message": "Получить"
+    },
+    "title_create": {
+        "message": "СОЗДАТЬ 2FA"
+    },
+    "description_title_create": {
+        "message": "Введите информацию о коде 2FA, которую хотите сохранить."
+    },
+    "label_website": {
+        "message": "Веб-сайт"
+    },
+    "label_account": {
+        "message": "Аккаунт"
+    },
+    "label_secret_key": {
+        "message": "Секретный ключ"
+    },
+    "button_create_running": {
+        "message": "Создание..."
+    },
+    "button_create": {
+        "message": "Создать"
+    },
+    "button_cancel": {
+        "message": "Отмена"
+    },
+    "message_get_code_empty": {
+        "message": "Секретный код не может быть пустым."
+    },
+    "message_get_code_success": {
+        "message": "Код 2FA успешно получен и скопирован в буфер обмена."
+    },
+    "message_get_code_error": {
+        "message": "Ошибка при получении кода 2FA."
+    },
+    "message_copy_success": {
+        "message": "Успешно скопировано в буфер обмена."
+    },
+    "message_copy_error": {
+        "message": "Ошибка при копировании в буфер обмена."
+    },
+    "message_delete_success": {
+        "message": "Ключ успешно удалён."
+    },
+    "message_delete_error": {
+        "message": "Ошибка при удалении ключа."
+    },
+    "message_create_qr_error": {
+        "message": "Ошибка при создании QR-кода."
+    },
+    "message_scan_qr_error": {
+        "message": "Ошибка при сканировании QR-кода."
+    },
+    "message_get_list_secret_key": {
+        "message": "Ошибка при получении списка ключей."
+    },
+    "message_website_empty": {
+        "message": "Веб-сайт не может быть пустым."
+    },
+    "message_account_empty": {
+        "message": "Аккаунт не может быть пустым."
+    },
+    "message_secret_key_empty": {
+        "message": "Секретный ключ не может быть пустым."
+    },
+    "message_add_success": {
+        "message": "Успешно добавлено."
+    },
+    "message_add_error": {
+        "message": "Ошибка при сохранении ключа."
+    },
+    "placeholder_search": {
+        "message": "Поиск"
+    }
+}

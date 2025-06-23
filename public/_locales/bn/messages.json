@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "প্রমাণীকরণ"
+    },
+    "description_title": {
+        "message": "ব্যবহারকারীর ডেটা সুরক্ষিত করতে এবং নিরাপত্তা নিশ্চিত করতে ডিজাইন করা একটি নিরাপদ এবং এনক্রিপ্টেড 2FA কোড ম্যানেজার।"
+    },
+    "placeholder_input": {
+        "message": "2FA কোড লিখুন: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "প্রক্রিয়াধীন..."
+    },
+    "button_get": {
+        "message": "প্রাপ্ত করুন"
+    },
+    "title_create": {
+        "message": "2FA তৈরি করুন"
+    },
+    "description_title_create": {
+        "message": "আপনি যে 2FA কোড তথ্য সংরক্ষণ করতে চান তা লিখুন।"
+    },
+    "label_website": {
+        "message": "ওয়েবসাইট"
+    },
+    "label_account": {
+        "message": "অ্যাকাউন্ট"
+    },
+    "label_secret_key": {
+        "message": "গোপন কী"
+    },
+    "button_create_running": {
+        "message": "তৈরি হচ্ছে"
+    },
+    "button_create": {
+        "message": "তৈরি করুন"
+    },
+    "button_cancel": {
+        "message": "বাতিল"
+    },
+    "message_get_code_empty": {
+        "message": "গোপন কোড ফাঁকা হতে পারে না।"
+    },
+    "message_get_code_success": {
+        "message": "2FA কোড সফলভাবে প্রাপ্ত হয়েছে এবং ক্লিপবোর্ডে কপি করা হয়েছে।"
+    },
+    "message_get_code_error": {
+        "message": "2FA কোড প্রাপ্তিতে ত্রুটি।"
+    },
+    "message_copy_success": {
+        "message": "সফলভাবে ক্লিপবোর্ডে কপি করা হয়েছে।"
+    },
+    "message_copy_error": {
+        "message": "ক্লিপবোর্ডে কপি করতে ত্রুটি।"
+    },
+    "message_delete_success": {
+        "message": "কী সফলভাবে মুছে ফেলা হয়েছে।"
+    },
+    "message_delete_error": {
+        "message": "কী মুছতে ত্রুটি।"
+    },
+    "message_create_qr_error": {
+        "message": "QR কোড তৈরিতে ত্রুটি।"
+    },
+    "message_scan_qr_error": {
+        "message": "QR কোড স্ক্যান করতে ত্রুটি।"
+    },
+    "message_get_list_secret_key": {
+        "message": "কী তালিকা প্রাপ্তিতে ত্রুটি।"
+    },
+    "message_website_empty": {
+        "message": "ওয়েবসাইট ফাঁকা হতে পারে না।"
+    },
+    "message_account_empty": {
+        "message": "অ্যাকাউন্ট ফাঁকা হতে পারে না।"
+    },
+    "message_secret_key_empty": {
+        "message": "গোপন কী ফাঁকা হতে পারে না।"
+    },
+    "message_add_success": {
+        "message": "সফলভাবে যোগ করা হয়েছে।"
+    },
+    "message_add_error": {
+        "message": "কী সংরক্ষণে ত্রুটি।"
+    },
+    "placeholder_search": {
+        "message": "অনুসন্ধান"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "ตัวตรวจสอบ"
+    },
+    "description_title": {
+        "message": "ผู้จัดการรหัส 2FA ที่ปลอดภัยและเข้ารหัส เพื่อปกป้องข้อมูลผู้ใช้และรับประกันความปลอดภัย"
+    },
+    "placeholder_input": {
+        "message": "กรอกรหัส 2FA: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "กำลังดำเนินการ..."
+    },
+    "button_get": {
+        "message": "รับ"
+    },
+    "title_create": {
+        "message": "สร้าง 2FA"
+    },
+    "description_title_create": {
+        "message": "กรอกข้อมูลรหัส 2FA ที่คุณต้องการบันทึก"
+    },
+    "label_website": {
+        "message": "เว็บไซต์"
+    },
+    "label_account": {
+        "message": "บัญชี"
+    },
+    "label_secret_key": {
+        "message": "รหัสลับ"
+    },
+    "button_create_running": {
+        "message": "กำลังสร้าง..."
+    },
+    "button_create": {
+        "message": "สร้าง"
+    },
+    "button_cancel": {
+        "message": "ยกเลิก"
+    },
+    "message_get_code_empty": {
+        "message": "รหัสลับต้องไม่เว้นว่าง"
+    },
+    "message_get_code_success": {
+        "message": "รับรหัส 2FA สำเร็จและคัดลอกไปยังคลิปบอร์ดแล้ว"
+    },
+    "message_get_code_error": {
+        "message": "เกิดข้อผิดพลาดในการรับรหัส 2FA"
+    },
+    "message_copy_success": {
+        "message": "คัดลอกไปยังคลิปบอร์ดสำเร็จ"
+    },
+    "message_copy_error": {
+        "message": "เกิดข้อผิดพลาดในการคัดลอกไปยังคลิปบอร์ด"
+    },
+    "message_delete_success": {
+        "message": "ลบคีย์สำเร็จ"
+    },
+    "message_delete_error": {
+        "message": "เกิดข้อผิดพลาดในการลบคีย์"
+    },
+    "message_create_qr_error": {
+        "message": "เกิดข้อผิดพลาดในการสร้างรหัส QR"
+    },
+    "message_scan_qr_error": {
+        "message": "เกิดข้อผิดพลาดในการสแกนรหัส QR"
+    },
+    "message_get_list_secret_key": {
+        "message": "เกิดข้อผิดพลาดในการดึงรายการคีย์"
+    },
+    "message_website_empty": {
+        "message": "เว็บไซต์ต้องไม่เว้นว่าง"
+    },
+    "message_account_empty": {
+        "message": "บัญชีต้องไม่เว้นว่าง"
+    },
+    "message_secret_key_empty": {
+        "message": "รหัสลับต้องไม่เว้นว่าง"
+    },
+    "message_add_success": {
+        "message": "เพิ่มสำเร็จ"
+    },
+    "message_add_error": {
+        "message": "เกิดข้อผิดพลาดในการบันทึกคีย์"
+    },
+    "placeholder_search": {
+        "message": "ค้นหา"
+    }
+}

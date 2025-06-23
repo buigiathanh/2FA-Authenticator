@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "PENGAUTENTIKASI"
+    },
+    "description_title": {
+        "message": "Pengurus kod 2FA yang selamat dan disulitkan, direka untuk melindungi data pengguna dan memastikan keselamatan."
+    },
+    "placeholder_input": {
+        "message": "Masukkan kod 2FA: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Memproses..."
+    },
+    "button_get": {
+        "message": "Dapatkan"
+    },
+    "title_create": {
+        "message": "CIPTA 2FA"
+    },
+    "description_title_create": {
+        "message": "Masukkan maklumat kod 2FA yang anda ingin simpan."
+    },
+    "label_website": {
+        "message": "Laman Web"
+    },
+    "label_account": {
+        "message": "Akaun"
+    },
+    "label_secret_key": {
+        "message": "Kunci Rahsia"
+    },
+    "button_create_running": {
+        "message": "Mencipta..."
+    },
+    "button_create": {
+        "message": "Cipta"
+    },
+    "button_cancel": {
+        "message": "Batal"
+    },
+    "message_get_code_empty": {
+        "message": "Kod rahsia tidak boleh kosong."
+    },
+    "message_get_code_success": {
+        "message": "Kod 2FA berjaya diperoleh dan disalin ke papan klip."
+    },
+    "message_get_code_error": {
+        "message": "Ralat semasa mendapatkan kod 2FA."
+    },
+    "message_copy_success": {
+        "message": "Berjaya disalin ke papan klip."
+    },
+    "message_copy_error": {
+        "message": "Ralat semasa menyalin ke papan klip."
+    },
+    "message_delete_success": {
+        "message": "Kunci berjaya dipadam."
+    },
+    "message_delete_error": {
+        "message": "Ralat semasa memadam kunci."
+    },
+    "message_create_qr_error": {
+        "message": "Ralat semasa menjana kod QR."
+    },
+    "message_scan_qr_error": {
+        "message": "Ralat semasa mengimbas kod QR."
+    },
+    "message_get_list_secret_key": {
+        "message": "Ralat semasa mendapatkan senarai kunci."
+    },
+    "message_website_empty": {
+        "message": "Laman web tidak boleh kosong."
+    },
+    "message_account_empty": {
+        "message": "Akaun tidak boleh kosong."
+    },
+    "message_secret_key_empty": {
+        "message": "Kunci rahsia tidak boleh kosong."
+    },
+    "message_add_success": {
+        "message": "Berjaya ditambah."
+    },
+    "message_add_error": {
+        "message": "Ralat semasa menyimpan kunci."
+    },
+    "placeholder_search": {
+        "message": "Cari"
+    }
+}

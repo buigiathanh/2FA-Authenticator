@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTENTYFIKATOR"
+    },
+    "description_title": {
+        "message": "Bezpieczny i zaszyfrowany menedżer kodów 2FA, zaprojektowany w celu ochrony danych użytkownika i zapewnienia bezpieczeństwa."
+    },
+    "placeholder_input": {
+        "message": "Wprowadź kod 2FA: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Przetwarzanie..."
+    },
+    "button_get": {
+        "message": "Pobierz"
+    },
+    "title_create": {
+        "message": "UTWÓRZ 2FA"
+    },
+    "description_title_create": {
+        "message": "Wprowadź informacje o kodzie 2FA, które chcesz zapisać."
+    },
+    "label_website": {
+        "message": "Strona internetowa"
+    },
+    "label_account": {
+        "message": "Konto"
+    },
+    "label_secret_key": {
+        "message": "Klucz tajny"
+    },
+    "button_create_running": {
+        "message": "Tworzenie..."
+    },
+    "button_create": {
+        "message": "Utwórz"
+    },
+    "button_cancel": {
+        "message": "Anuluj"
+    },
+    "message_get_code_empty": {
+        "message": "Kod tajny nie może być pusty."
+    },
+    "message_get_code_success": {
+        "message": "Kod 2FA został pomyślnie pobrany i skopiowany do schowka."
+    },
+    "message_get_code_error": {
+        "message": "Błąd podczas pobierania kodu 2FA."
+    },
+    "message_copy_success": {
+        "message": "Skopiowano do schowka."
+    },
+    "message_copy_error": {
+        "message": "Błąd podczas kopiowania do schowka."
+    },
+    "message_delete_success": {
+        "message": "Klucz został pomyślnie usunięty."
+    },
+    "message_delete_error": {
+        "message": "Błąd podczas usuwania klucza."
+    },
+    "message_create_qr_error": {
+        "message": "Błąd podczas generowania kodu QR."
+    },
+    "message_scan_qr_error": {
+        "message": "Błąd podczas skanowania kodu QR."
+    },
+    "message_get_list_secret_key": {
+        "message": "Błąd podczas pobierania listy kluczy."
+    },
+    "message_website_empty": {
+        "message": "Strona internetowa nie może być pusta."
+    },
+    "message_account_empty": {
+        "message": "Konto nie może być puste."
+    },
+    "message_secret_key_empty": {
+        "message": "Klucz tajny nie może być pusty."
+    },
+    "message_add_success": {
+        "message": "Pomyślnie dodano."
+    },
+    "message_add_error": {
+        "message": "Błąd podczas zapisywania klucza."
+    },
+    "placeholder_search": {
+        "message": "Szukaj"
+    }
+}

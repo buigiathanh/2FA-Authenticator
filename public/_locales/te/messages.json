@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "ప్రామాణీకరణ"
+    },
+    "description_title": {
+        "message": "వినియోగదారుల డేటాను రక్షించడానికి మరియు భద్రతను నిర్ధారించడానికి రూపొందించిన సురక్షిత, సంకేతబద్ధీకరించిన 2FA కోడ్ మేనేజర్."
+    },
+    "placeholder_input": {
+        "message": "2FA కోడ్‌ను నమోదు చేయండి: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "ప్రాసెస్ అవుతోంది..."
+    },
+    "button_get": {
+        "message": "పొందు"
+    },
+    "title_create": {
+        "message": "2FA సృష్టించు"
+    },
+    "description_title_create": {
+        "message": "మీరు సేవ్ చేయాలనుకునే 2FA కోడ్ వివరాలను నమోదు చేయండి."
+    },
+    "label_website": {
+        "message": "వెబ్‌సైట్"
+    },
+    "label_account": {
+        "message": "ఖాతా"
+    },
+    "label_secret_key": {
+        "message": "రహస్య కీ"
+    },
+    "button_create_running": {
+        "message": "సృష్టిస్తోంది..."
+    },
+    "button_create": {
+        "message": "సృష్టించు"
+    },
+    "button_cancel": {
+        "message": "రద్దు చేయి"
+    },
+    "message_get_code_empty": {
+        "message": "రహస్య కోడ్ ఖాళీగా ఉండకూడదు."
+    },
+    "message_get_code_success": {
+        "message": "2FA కోడ్ విజయవంతంగా పొందబడింది మరియు క్లిప్‌బోర్డ్కు కాపీ చేయబడింది."
+    },
+    "message_get_code_error": {
+        "message": "2FA కోడ్ పొందడంలో లోపం"
+    },
+    "message_copy_success": {
+        "message": "విజయవంతంగా క్లిప్‌బోర్డ్కు కాపీ చేయబడింది."
+    },
+    "message_copy_error": {
+        "message": "క్లిప్‌బోర్డ్కు కాపీ చేయడంలో లోపం."
+    },
+    "message_delete_success": {
+        "message": "కీ విజయవంతంగా తొలగించబడింది."
+    },
+    "message_delete_error": {
+        "message": "కీ తొలగింపులో లోపం."
+    },
+    "message_create_qr_error": {
+        "message": "QR కోడ్ సృష్టించడంలో లోపం."
+    },
+    "message_scan_qr_error": {
+        "message": "QR కోడ్ స్కాన్ చేయడంలో లోపం."
+    },
+    "message_get_list_secret_key": {
+        "message": "కీ జాబితా పొందడంలో లోపం."
+    },
+    "message_website_empty": {
+        "message": "వెబ్‌సైట్ ఖాళీగా ఉండకూడదు."
+    },
+    "message_account_empty": {
+        "message": "ఖాతా ఖాళీగా ఉండకూడదు."
+    },
+    "message_secret_key_empty": {
+        "message": "రహస్య కీ ఖాళీగా ఉండకూడదు."
+    },
+    "message_add_success": {
+        "message": "విజయవంతంగా జోడించబడింది."
+    },
+    "message_add_error": {
+        "message": "కీ నిల్వలో లోపం."
+    },
+    "placeholder_search": {
+        "message": "వెతకండి"
+    }
+}

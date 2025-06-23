@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "እውቅና መስጫ"
+    },
+    "description_title": {
+        "message": "የተጠቃሚ ውሂብን ለመጠበቅ እና ደህንነትን ለማረጋገጥ የተነደፈ ደህንነቱ የተጠበቀ እና የተመሰጠረ 2FA ኮድ አስተዳዳሪ።"
+    },
+    "placeholder_input": {
+        "message": "2FA ኮድ ያስገቡ፡ BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "በሂደት ላይ..."
+    },
+    "button_get": {
+        "message": "አግኝ"
+    },
+    "title_create": {
+        "message": "2FA ፍጠር"
+    },
+    "description_title_create": {
+        "message": "ማከማቸት የሚፈልጉትን 2FA ኮድ መረጃ ያስገቡ።"
+    },
+    "label_website": {
+        "message": "ድህረ ገፅ"
+    },
+    "label_account": {
+        "message": "መለያ"
+    },
+    "label_secret_key": {
+        "message": "ሚስጥራዊ ቁልፍ"
+    },
+    "button_create_running": {
+        "message": "በመፍጠር ላይ"
+    },
+    "button_create": {
+        "message": "ፍጠር"
+    },
+    "button_cancel": {
+        "message": "አቋርጥ"
+    },
+    "message_get_code_empty": {
+        "message": "ሚስጥራዊ ኮድ ባዶ መሆን የለበትም።"
+    },
+    "message_get_code_success": {
+        "message": "2FA ኮድ በተሳካ ሁኔታ ተገኝቶ ወደ ክሊፕቦርድ ተቀድቷል።"
+    },
+    "message_get_code_error": {
+        "message": "2FA ኮድ ማግኘት ላይ ስህተት ተከስቷል።"
+    },
+    "message_copy_success": {
+        "message": "ወደ ክሊፕቦርድ በተሳካ ሁኔታ ተቀድቷል።"
+    },
+    "message_copy_error": {
+        "message": "ወደ ክሊፕቦርድ መቅዳት ላይ ስህተት ተከስቷል።"
+    },
+    "message_delete_success": {
+        "message": "ቁልፍ በተሳካ ሁኔታ ተሰርዟል።"
+    },
+    "message_delete_error": {
+        "message": "ቁልፍ መሰረዝ ላይ ስህተት ተከስቷል።"
+    },
+    "message_create_qr_error": {
+        "message": "QR ኮድ መፍጠር ላይ ስህተት ተከስቷል።"
+    },
+    "message_scan_qr_error": {
+        "message": "QR ኮድ መቃኘት ላይ ስህተት ተከስቷል።"
+    },
+    "message_get_list_secret_key": {
+        "message": "የቁልፍ ዝርዝር ማግኘት ላይ ስህተት ተከስቷል።"
+    },
+    "message_website_empty": {
+        "message": "ድህረ ገፅ ባዶ መሆን የለበትም።"
+    },
+    "message_account_empty": {
+        "message": "መለያ ባዶ መሆን የለበትም።"
+    },
+    "message_secret_key_empty": {
+        "message": "ሚስጥራዊ ቁልፍ ባዶ መሆን የለበትም።"
+    },
+    "message_add_success": {
+        "message": "በተሳካ ሁኔታ ታክሏል።"
+    },
+    "message_add_error": {
+        "message": "ቁልፍ ማስቀመጥ ላይ ስህተት ተከስቷል።"
+    },
+    "placeholder_search": {
+        "message": "ፈልግ"
+    }
+}

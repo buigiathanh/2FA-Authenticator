@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTENTIJA"
+    },
+    "description_title": {
+        "message": "Turvaline ja krüpteeritud 2FA koodide haldur, mis on loodud kasutajaandmete kaitsmiseks ja turvalisuse tagamiseks."
+    },
+    "placeholder_input": {
+        "message": "Sisestage 2FA kood: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Töötlemine..."
+    },
+    "button_get": {
+        "message": "Hangi"
+    },
+    "title_create": {
+        "message": "LOO 2FA"
+    },
+    "description_title_create": {
+        "message": "Sisestage 2FA koodi teave, mida soovite salvestada."
+    },
+    "label_website": {
+        "message": "Veebisait"
+    },
+    "label_account": {
+        "message": "Konto"
+    },
+    "label_secret_key": {
+        "message": "Salajane võti"
+    },
+    "button_create_running": {
+        "message": "Loomine"
+    },
+    "button_create": {
+        "message": "Loo"
+    },
+    "button_cancel": {
+        "message": "Tühista"
+    },
+    "message_get_code_empty": {
+        "message": "Salajane kood ei tohi olla tühi."
+    },
+    "message_get_code_success": {
+        "message": "2FA kood on edukalt hangitud ja kopeeritud lõikelauale."
+    },
+    "message_get_code_error": {
+        "message": "Viga 2FA koodi hankimisel."
+    },
+    "message_copy_success": {
+        "message": "Edukalt lõikelauale kopeeritud."
+    },
+    "message_copy_error": {
+        "message": "Viga lõikelauale kopeerimisel."
+    },
+    "message_delete_success": {
+        "message": "Võti on edukalt kustutatud."
+    },
+    "message_delete_error": {
+        "message": "Viga võtme kustutamisel."
+    },
+    "message_create_qr_error": {
+        "message": "Viga QR-koodi loomisel."
+    },
+    "message_scan_qr_error": {
+        "message": "Viga QR-koodi skannimisel."
+    },
+    "message_get_list_secret_key": {
+        "message": "Viga võtmete loendi hankimisel."
+    },
+    "message_website_empty": {
+        "message": "Veebisait ei tohi olla tühi."
+    },
+    "message_account_empty": {
+        "message": "Konto ei tohi olla tühi."
+    },
+    "message_secret_key_empty": {
+        "message": "Salajane võti ei tohi olla tühi."
+    },
+    "message_add_success": {
+        "message": "Edukalt lisatud."
+    },
+    "message_add_error": {
+        "message": "Viga võtme salvestamisel."
+    },
+    "placeholder_search": {
+        "message": "Otsi"
+    }
+}

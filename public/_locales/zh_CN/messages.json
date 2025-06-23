@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "身份验证器"
+    },
+    "description_title": {
+        "message": "一个安全加密的 2FA 验证码管理器，旨在保护用户数据并确保安全。"
+    },
+    "placeholder_input": {
+        "message": "请输入 2FA 验证码：BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "处理中..."
+    },
+    "button_get": {
+        "message": "获取"
+    },
+    "title_create": {
+        "message": "创建 2FA"
+    },
+    "description_title_create": {
+        "message": "请输入您要保存的 2FA 验证码信息。"
+    },
+    "label_website": {
+        "message": "网站"
+    },
+    "label_account": {
+        "message": "账户"
+    },
+    "label_secret_key": {
+        "message": "密钥"
+    },
+    "button_create_running": {
+        "message": "创建中..."
+    },
+    "button_create": {
+        "message": "创建"
+    },
+    "button_cancel": {
+        "message": "取消"
+    },
+    "message_get_code_empty": {
+        "message": "密钥不能为空。"
+    },
+    "message_get_code_success": {
+        "message": "2FA 验证码获取成功并已复制到剪贴板。"
+    },
+    "message_get_code_error": {
+        "message": "获取 2FA 验证码时出错。"
+    },
+    "message_copy_success": {
+        "message": "成功复制到剪贴板。"
+    },
+    "message_copy_error": {
+        "message": "复制到剪贴板时出错。"
+    },
+    "message_delete_success": {
+        "message": "密钥删除成功。"
+    },
+    "message_delete_error": {
+        "message": "删除密钥时出错。"
+    },
+    "message_create_qr_error": {
+        "message": "生成二维码时出错。"
+    },
+    "message_scan_qr_error": {
+        "message": "扫描二维码时出错。"
+    },
+    "message_get_list_secret_key": {
+        "message": "获取密钥列表时出错。"
+    },
+    "message_website_empty": {
+        "message": "网站不能为空。"
+    },
+    "message_account_empty": {
+        "message": "账户不能为空。"
+    },
+    "message_secret_key_empty": {
+        "message": "密钥不能为空。"
+    },
+    "message_add_success": {
+        "message": "添加成功。"
+    },
+    "message_add_error": {
+        "message": "保存密钥时出错。"
+    },
+    "placeholder_search": {
+        "message": "搜索"
+    }
+}

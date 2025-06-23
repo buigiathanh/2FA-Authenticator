@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AVTENTIKATOR"
+    },
+    "description_title": {
+        "message": "Zanesljiv in šifriran upravitelj 2FA kod, zasnovan za zaščito uporabniških podatkov in zagotavljanje varnosti."
+    },
+    "placeholder_input": {
+        "message": "Vnesite 2FA kodo: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Obdelava..."
+    },
+    "button_get": {
+        "message": "Pridobi"
+    },
+    "title_create": {
+        "message": "USTVARI 2FA"
+    },
+    "description_title_create": {
+        "message": "Vnesite informacije o 2FA kodi, ki jih želite shraniti."
+    },
+    "label_website": {
+        "message": "Spletna stran"
+    },
+    "label_account": {
+        "message": "Račun"
+    },
+    "label_secret_key": {
+        "message": "Skrivni ključ"
+    },
+    "button_create_running": {
+        "message": "Ustvarjanje..."
+    },
+    "button_create": {
+        "message": "Ustvari"
+    },
+    "button_cancel": {
+        "message": "Prekliči"
+    },
+    "message_get_code_empty": {
+        "message": "Skrivna koda ne sme biti prazna."
+    },
+    "message_get_code_success": {
+        "message": "2FA koda je bila uspešno pridobljena in kopirana v odložišče."
+    },
+    "message_get_code_error": {
+        "message": "Napaka pri pridobivanju 2FA kode."
+    },
+    "message_copy_success": {
+        "message": "Uspešno kopirano v odložišče."
+    },
+    "message_copy_error": {
+        "message": "Napaka pri kopiranju v odložišče."
+    },
+    "message_delete_success": {
+        "message": "Ključ je bil uspešno izbrisan."
+    },
+    "message_delete_error": {
+        "message": "Napaka pri brisanju ključa."
+    },
+    "message_create_qr_error": {
+        "message": "Napaka pri generiranju QR kode."
+    },
+    "message_scan_qr_error": {
+        "message": "Napaka pri skeniranju QR kode."
+    },
+    "message_get_list_secret_key": {
+        "message": "Napaka pri pridobivanju seznama ključev."
+    },
+    "message_website_empty": {
+        "message": "Spletna stran ne sme biti prazna."
+    },
+    "message_account_empty": {
+        "message": "Račun ne sme biti prazen."
+    },
+    "message_secret_key_empty": {
+        "message": "Skrivni ključ ne sme biti prazen."
+    },
+    "message_add_success": {
+        "message": "Uspešno dodano."
+    },
+    "message_add_error": {
+        "message": "Napaka pri shranjevanju ključa."
+    },
+    "placeholder_search": {
+        "message": "Iskanje"
+    }
+}

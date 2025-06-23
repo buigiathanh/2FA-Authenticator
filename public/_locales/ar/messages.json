@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "المصادقة"
+    },
+    "description_title": {
+        "message": "مدير رموز مصادقة ثنائية آمن ومشفر مصمم لحماية بيانات المستخدم وضمان الأمان."
+    },
+    "placeholder_input": {
+        "message": "أدخل رمز المصادقة الثنائية: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "جارٍ المعالجة..."
+    },
+    "button_get": {
+        "message": "احصل عليه"
+    },
+    "title_create": {
+        "message": "إنشاء مصادقة ثنائية"
+    },
+    "description_title_create": {
+        "message": "أدخل معلومات رمز المصادقة الثنائية التي تريد تخزينها."
+    },
+    "label_website": {
+        "message": "الموقع الإلكتروني"
+    },
+    "label_account": {
+        "message": "الحساب"
+    },
+    "label_secret_key": {
+        "message": "المفتاح السري"
+    },
+    "button_create_running": {
+        "message": "جارٍ الإنشاء"
+    },
+    "button_create": {
+        "message": "إنشاء"
+    },
+    "button_cancel": {
+        "message": "إلغاء"
+    },
+    "message_get_code_empty": {
+        "message": "يجب ألا يكون الرمز السري فارغًا."
+    },
+    "message_get_code_success": {
+        "message": "تم استرداد رمز المصادقة الثنائية بنجاح ونسخه إلى الحافظة."
+    },
+    "message_get_code_error": {
+        "message": "خطأ في استرداد رمز المصادقة الثنائية."
+    },
+    "message_copy_success": {
+        "message": "تم النسخ إلى الحافظة بنجاح."
+    },
+    "message_copy_error": {
+        "message": "خطأ في النسخ إلى الحافظة."
+    },
+    "message_delete_success": {
+        "message": "تم حذف المفتاح بنجاح."
+    },
+    "message_delete_error": {
+        "message": "خطأ في حذف المفتاح."
+    },
+    "message_create_qr_error": {
+        "message": "خطأ في إنشاء رمز QR."
+    },
+    "message_scan_qr_error": {
+        "message": "خطأ في مسح رمز QR."
+    },
+    "message_get_list_secret_key": {
+        "message": "خطأ في استرداد قائمة المفاتيح."
+    },
+    "message_website_empty": {
+        "message": "لا يمكن أن يكون الموقع الإلكتروني فارغًا."
+    },
+    "message_account_empty": {
+        "message": "لا يمكن أن يكون الحساب فارغًا."
+    },
+    "message_secret_key_empty": {
+        "message": "لا يمكن أن يكون المفتاح السري فارغًا."
+    },
+    "message_add_success": {
+        "message": "تمت الإضافة بنجاح."
+    },
+    "message_add_error": {
+        "message": "خطأ في حفظ المفتاح."
+    },
+    "placeholder_search": {
+        "message": "بحث"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTHENTICATOR"
+    },
+    "description_title": {
+        "message": "Een veilige en versleutelde 2FA-codebeheerder ontworpen om gebruikersgegevens te beschermen en veiligheid te waarborgen."
+    },
+    "placeholder_input": {
+        "message": "Voer de 2FA-code in: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Bezig..."
+    },
+    "button_get": {
+        "message": "Ophalen"
+    },
+    "title_create": {
+        "message": "2FA AANMAKEN"
+    },
+    "description_title_create": {
+        "message": "Voer de 2FA-code informatie in die je wilt opslaan."
+    },
+    "label_website": {
+        "message": "Website"
+    },
+    "label_account": {
+        "message": "Account"
+    },
+    "label_secret_key": {
+        "message": "Geheime sleutel"
+    },
+    "button_create_running": {
+        "message": "Bezig met aanmaken"
+    },
+    "button_create": {
+        "message": "Aanmaken"
+    },
+    "button_cancel": {
+        "message": "Annuleren"
+    },
+    "message_get_code_empty": {
+        "message": "Geheime code mag niet leeg zijn."
+    },
+    "message_get_code_success": {
+        "message": "2FA-code succesvol opgehaald en naar klembord gekopieerd."
+    },
+    "message_get_code_error": {
+        "message": "Fout bij het ophalen van de 2FA-code."
+    },
+    "message_copy_success": {
+        "message": "Succesvol naar klembord gekopieerd."
+    },
+    "message_copy_error": {
+        "message": "Fout bij het kopiëren naar klembord."
+    },
+    "message_delete_success": {
+        "message": "Sleutel succesvol verwijderd."
+    },
+    "message_delete_error": {
+        "message": "Fout bij het verwijderen van de sleutel."
+    },
+    "message_create_qr_error": {
+        "message": "Fout bij het genereren van de QR-code."
+    },
+    "message_scan_qr_error": {
+        "message": "Fout bij het scannen van de QR-code."
+    },
+    "message_get_list_secret_key": {
+        "message": "Fout bij het ophalen van de lijst met sleutels."
+    },
+    "message_website_empty": {
+        "message": "Website mag niet leeg zijn."
+    },
+    "message_account_empty": {
+        "message": "Account mag niet leeg zijn."
+    },
+    "message_secret_key_empty": {
+        "message": "Geheime sleutel mag niet leeg zijn."
+    },
+    "message_add_success": {
+        "message": "Succesvol toegevoegd."
+    },
+    "message_add_error": {
+        "message": "Fout bij het opslaan van de sleutel."
+    },
+    "placeholder_search": {
+        "message": "Zoeken"
+    }
+}

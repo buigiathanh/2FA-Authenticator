@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "АВТЕНТИФІКАТОР"
+    },
+    "description_title": {
+        "message": "Безпечний та зашифрований менеджер кодів 2FA, створений для захисту даних користувача та забезпечення безпеки."
+    },
+    "placeholder_input": {
+        "message": "Введіть код 2FA: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Обробка..."
+    },
+    "button_get": {
+        "message": "Отримати"
+    },
+    "title_create": {
+        "message": "СТВОРИТИ 2FA"
+    },
+    "description_title_create": {
+        "message": "Введіть інформацію про код 2FA, яку бажаєте зберегти."
+    },
+    "label_website": {
+        "message": "Вебсайт"
+    },
+    "label_account": {
+        "message": "Акаунт"
+    },
+    "label_secret_key": {
+        "message": "Секретний ключ"
+    },
+    "button_create_running": {
+        "message": "Створення..."
+    },
+    "button_create": {
+        "message": "Створити"
+    },
+    "button_cancel": {
+        "message": "Скасувати"
+    },
+    "message_get_code_empty": {
+        "message": "Секретний код не повинен бути порожнім."
+    },
+    "message_get_code_success": {
+        "message": "Код 2FA успішно отримано та скопійовано до буфера обміну."
+    },
+    "message_get_code_error": {
+        "message": "Помилка під час отримання коду 2FA."
+    },
+    "message_copy_success": {
+        "message": "Успішно скопійовано до буфера обміну."
+    },
+    "message_copy_error": {
+        "message": "Помилка копіювання до буфера обміну."
+    },
+    "message_delete_success": {
+        "message": "Ключ успішно видалено."
+    },
+    "message_delete_error": {
+        "message": "Помилка видалення ключа."
+    },
+    "message_create_qr_error": {
+        "message": "Помилка створення QR-коду."
+    },
+    "message_scan_qr_error": {
+        "message": "Помилка сканування QR-коду."
+    },
+    "message_get_list_secret_key": {
+        "message": "Помилка отримання списку ключів."
+    },
+    "message_website_empty": {
+        "message": "Поле вебсайту не може бути порожнім."
+    },
+    "message_account_empty": {
+        "message": "Поле акаунта не може бути порожнім."
+    },
+    "message_secret_key_empty": {
+        "message": "Секрет не може бути порожнім."
+    },
+    "message_add_success": {
+        "message": "Успішно додано."
+    },
+    "message_add_error": {
+        "message": "Помилка збереження ключа."
+    },
+    "placeholder_search": {
+        "message": "Пошук"
+    }
+}

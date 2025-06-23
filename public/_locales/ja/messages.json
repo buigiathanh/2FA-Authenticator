@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "認証アプリ"
+    },
+    "description_title": {
+        "message": "ユーザーデータを保護し、安全性を確保するために設計された、安全で暗号化された2FAコードマネージャーです。"
+    },
+    "placeholder_input": {
+        "message": "2FAコードを入力してください: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "処理中..."
+    },
+    "button_get": {
+        "message": "取得"
+    },
+    "title_create": {
+        "message": "2FAを作成"
+    },
+    "description_title_create": {
+        "message": "保存したい2FAコードの情報を入力してください。"
+    },
+    "label_website": {
+        "message": "ウェブサイト"
+    },
+    "label_account": {
+        "message": "アカウント"
+    },
+    "label_secret_key": {
+        "message": "シークレットキー"
+    },
+    "button_create_running": {
+        "message": "作成中..."
+    },
+    "button_create": {
+        "message": "作成"
+    },
+    "button_cancel": {
+        "message": "キャンセル"
+    },
+    "message_get_code_empty": {
+        "message": "シークレットコードは空にできません。"
+    },
+    "message_get_code_success": {
+        "message": "2FAコードを正常に取得し、クリップボードにコピーしました。"
+    },
+    "message_get_code_error": {
+        "message": "2FAコードの取得中にエラーが発生しました。"
+    },
+    "message_copy_success": {
+        "message": "クリップボードに正常にコピーされました。"
+    },
+    "message_copy_error": {
+        "message": "クリップボードへのコピー中にエラーが発生しました。"
+    },
+    "message_delete_success": {
+        "message": "キーが正常に削除されました。"
+    },
+    "message_delete_error": {
+        "message": "キーの削除中にエラーが発生しました。"
+    },
+    "message_create_qr_error": {
+        "message": "QRコードの生成中にエラーが発生しました。"
+    },
+    "message_scan_qr_error": {
+        "message": "QRコードのスキャン中にエラーが発生しました。"
+    },
+    "message_get_list_secret_key": {
+        "message": "キーリストの取得中にエラーが発生しました。"
+    },
+    "message_website_empty": {
+        "message": "ウェブサイトは空にできません。"
+    },
+    "message_account_empty": {
+        "message": "アカウントは空にできません。"
+    },
+    "message_secret_key_empty": {
+        "message": "シークレットキーは空にできません。"
+    },
+    "message_add_success": {
+        "message": "正常に追加されました。"
+    },
+    "message_add_error": {
+        "message": "キーの保存中にエラーが発生しました。"
+    },
+    "placeholder_search": {
+        "message": "検索"
+    }
+}

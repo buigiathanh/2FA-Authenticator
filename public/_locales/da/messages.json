@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTENTIKATOR"
+    },
+    "description_title": {
+        "message": "En sikker og krypteret 2FA-kodehåndtering designet til at beskytte brugerdata og sikre sikkerhed."
+    },
+    "placeholder_input": {
+        "message": "Indtast 2FA-koden: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Behandler..."
+    },
+    "button_get": {
+        "message": "Hent"
+    },
+    "title_create": {
+        "message": "OPRET 2FA"
+    },
+    "description_title_create": {
+        "message": "Indtast oplysningerne om 2FA-koden, du ønsker at gemme."
+    },
+    "label_website": {
+        "message": "Hjemmeside"
+    },
+    "label_account": {
+        "message": "Konto"
+    },
+    "label_secret_key": {
+        "message": "Hemmelig nøgle"
+    },
+    "button_create_running": {
+        "message": "Opretter"
+    },
+    "button_create": {
+        "message": "Opret"
+    },
+    "button_cancel": {
+        "message": "Annuller"
+    },
+    "message_get_code_empty": {
+        "message": "Hemmelig kode må ikke være tom."
+    },
+    "message_get_code_success": {
+        "message": "2FA-kode hentet succesfuldt og kopieret til udklipsholderen."
+    },
+    "message_get_code_error": {
+        "message": "Fejl ved hentning af 2FA-kode."
+    },
+    "message_copy_success": {
+        "message": "Kopieret til udklipsholderen succesfuldt."
+    },
+    "message_copy_error": {
+        "message": "Fejl ved kopiering til udklipsholderen."
+    },
+    "message_delete_success": {
+        "message": "Nøgle slettet succesfuldt."
+    },
+    "message_delete_error": {
+        "message": "Fejl ved sletning af nøgle."
+    },
+    "message_create_qr_error": {
+        "message": "Fejl ved generering af QR-kode."
+    },
+    "message_scan_qr_error": {
+        "message": "Fejl ved scanning af QR-kode."
+    },
+    "message_get_list_secret_key": {
+        "message": "Fejl ved hentning af nøgleliste."
+    },
+    "message_website_empty": {
+        "message": "Hjemmesiden må ikke være tom."
+    },
+    "message_account_empty": {
+        "message": "Kontoen må ikke være tom."
+    },
+    "message_secret_key_empty": {
+        "message": "Hemmelig nøgle må ikke være tom."
+    },
+    "message_add_success": {
+        "message": "Tilføjet succesfuldt."
+    },
+    "message_add_error": {
+        "message": "Fejl ved gemning af nøgle."
+    },
+    "placeholder_search": {
+        "message": "Søg"
+    }
+}

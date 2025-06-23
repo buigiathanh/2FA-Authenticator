@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTHENTIFIKATOR"
+    },
+    "description_title": {
+        "message": "Ein sicherer und verschlüsselter 2FA-Code-Manager, entwickelt zum Schutz von Benutzerdaten und zur Gewährleistung der Sicherheit."
+    },
+    "placeholder_input": {
+        "message": "Geben Sie den 2FA-Code ein: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Wird verarbeitet..."
+    },
+    "button_get": {
+        "message": "Abrufen"
+    },
+    "title_create": {
+        "message": "2FA ERSTELLEN"
+    },
+    "description_title_create": {
+        "message": "Geben Sie die Informationen für den 2FA-Code ein, den Sie speichern möchten."
+    },
+    "label_website": {
+        "message": "Website"
+    },
+    "label_account": {
+        "message": "Konto"
+    },
+    "label_secret_key": {
+        "message": "Geheimer Schlüssel"
+    },
+    "button_create_running": {
+        "message": "Wird erstellt"
+    },
+    "button_create": {
+        "message": "Erstellen"
+    },
+    "button_cancel": {
+        "message": "Abbrechen"
+    },
+    "message_get_code_empty": {
+        "message": "Der geheime Code darf nicht leer sein."
+    },
+    "message_get_code_success": {
+        "message": "2FA-Code erfolgreich abgerufen und in die Zwischenablage kopiert."
+    },
+    "message_get_code_error": {
+        "message": "Fehler beim Abrufen des 2FA-Codes."
+    },
+    "message_copy_success": {
+        "message": "Erfolgreich in die Zwischenablage kopiert."
+    },
+    "message_copy_error": {
+        "message": "Fehler beim Kopieren in die Zwischenablage."
+    },
+    "message_delete_success": {
+        "message": "Schlüssel erfolgreich gelöscht."
+    },
+    "message_delete_error": {
+        "message": "Fehler beim Löschen des Schlüssels."
+    },
+    "message_create_qr_error": {
+        "message": "Fehler beim Generieren des QR-Codes."
+    },
+    "message_scan_qr_error": {
+        "message": "Fehler beim Scannen des QR-Codes."
+    },
+    "message_get_list_secret_key": {
+        "message": "Fehler beim Abrufen der Schlüsselliste."
+    },
+    "message_website_empty": {
+        "message": "Die Website darf nicht leer sein."
+    },
+    "message_account_empty": {
+        "message": "Das Konto darf nicht leer sein."
+    },
+    "message_secret_key_empty": {
+        "message": "Der geheime Schlüssel darf nicht leer sein."
+    },
+    "message_add_success": {
+        "message": "Erfolgreich hinzugefügt."
+    },
+    "message_add_error": {
+        "message": "Fehler beim Speichern des Schlüssels."
+    },
+    "placeholder_search": {
+        "message": "Suchen"
+    }
+}

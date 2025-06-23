@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "ದೃಢೀಕರಣ ಸಾಧನ"
+    },
+    "description_title": {
+        "message": "ಬಳಕೆದಾರರ ಡೇಟಾವನ್ನು ರಕ್ಷಿಸಲು ಮತ್ತು ಸುರಕ್ಷತೆ ಖಚಿತಪಡಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾದ ಸುರಕ್ಷಿತ ಮತ್ತು ಗೋಪ್ಯ 2FA ಕೋಡ್ ವ್ಯವಸ್ಥಾಪಕ."
+    },
+    "placeholder_input": {
+        "message": "2FA ಕೋಡ್ ಅನ್ನು ನಮೂದಿಸಿ: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತಿದೆ..."
+    },
+    "button_get": {
+        "message": "ಪಡೆಯಿರಿ"
+    },
+    "title_create": {
+        "message": "2FA ರಚಿಸಿ"
+    },
+    "description_title_create": {
+        "message": "ನೀವು ಸಂಗ್ರಹಿಸಲು ಇಚ್ಛಿಸುವ 2FA ಕೋಡ್ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಿ."
+    },
+    "label_website": {
+        "message": "ಜಾಲತಾಣ"
+    },
+    "label_account": {
+        "message": "ಖಾತೆ"
+    },
+    "label_secret_key": {
+        "message": "ರಹಸ್ಯ ಕೀ"
+    },
+    "button_create_running": {
+        "message": "ರಚಿಸಲಾಗುತ್ತಿದೆ..."
+    },
+    "button_create": {
+        "message": "ರಚಿಸಿ"
+    },
+    "button_cancel": {
+        "message": "ರದ್ದುಗೊಳಿಸಿ"
+    },
+    "message_get_code_empty": {
+        "message": "ರಹಸ್ಯ ಕೋಡ್ ಖಾಲಿಯಾಗಿರಬಾರದು."
+    },
+    "message_get_code_success": {
+        "message": "2FA ಕೋಡ್ ಯಶಸ್ವಿಯಾಗಿ ಪಡೆಯಲಾಗಿದೆ ಮತ್ತು ಕ್ಲಿಪ್‌ಬೋರ್ಡಿಗೆ ನಕಲಿಸಲಾಗಿದೆ."
+    },
+    "message_get_code_error": {
+        "message": "2FA ಕೋಡ್ ಪಡೆಯುವಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ."
+    },
+    "message_copy_success": {
+        "message": "ಯಶಸ್ವಿಯಾಗಿ ಕ್ಲಿಪ್‌ಬೋರ್ಡಿಗೆ ನಕಲಿಸಲಾಗಿದೆ."
+    },
+    "message_copy_error": {
+        "message": "ಕ್ಲಿಪ್‌ಬೋರ್ಡಿಗೆ ನಕಲಿಸುವಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ."
+    },
+    "message_delete_success": {
+        "message": "ಕೀ ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ."
+    },
+    "message_delete_error": {
+        "message": "ಕೀ ಅಳಿಸುವಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ."
+    },
+    "message_create_qr_error": {
+        "message": "QR ಕೋಡ್ ರಚಿಸುವಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ."
+    },
+    "message_scan_qr_error": {
+        "message": "QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡುವಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ."
+    },
+    "message_get_list_secret_key": {
+        "message": "ಕೀ ಪಟ್ಟಿಯನ್ನು ಪಡೆಯುವಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ."
+    },
+    "message_website_empty": {
+        "message": "ಜಾಲತಾಣ ಖಾಲಿಯಾಗಿರಬಾರದು."
+    },
+    "message_account_empty": {
+        "message": "ಖಾತೆ ಖಾಲಿಯಾಗಿರಬಾರದು."
+    },
+    "message_secret_key_empty": {
+        "message": "ರಹಸ್ಯ ಕೀ ಖಾಲಿಯಾಗಿರಬಾರದು."
+    },
+    "message_add_success": {
+        "message": "ಯಶಸ್ವಿಯಾಗಿ ಸೇರಿಸಲಾಗಿದೆ."
+    },
+    "message_add_error": {
+        "message": "ಕೀ ಸಂಗ್ರಹಿಸುವಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ."
+    },
+    "placeholder_search": {
+        "message": "ಹುಡುಕು"
+    }
+}

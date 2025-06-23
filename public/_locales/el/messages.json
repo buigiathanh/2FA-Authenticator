@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "ΕΠΑΛΗΘΕΥΤΗΣ"
+    },
+    "description_title": {
+        "message": "Ένας ασφαλής και κρυπτογραφημένος διαχειριστής κωδικών 2FA, σχεδιασμένος για την προστασία των δεδομένων του χρήστη και την εξασφάλιση ασφάλειας."
+    },
+    "placeholder_input": {
+        "message": "Εισαγάγετε τον κωδικό 2FA: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Σε επεξεργασία..."
+    },
+    "button_get": {
+        "message": "Λήψη"
+    },
+    "title_create": {
+        "message": "ΔΗΜΙΟΥΡΓΙΑ 2FA"
+    },
+    "description_title_create": {
+        "message": "Εισαγάγετε τις πληροφορίες του κωδικού 2FA που θέλετε να αποθηκεύσετε."
+    },
+    "label_website": {
+        "message": "Ιστότοπος"
+    },
+    "label_account": {
+        "message": "Λογαριασμός"
+    },
+    "label_secret_key": {
+        "message": "Μυστικό κλειδί"
+    },
+    "button_create_running": {
+        "message": "Δημιουργία"
+    },
+    "button_create": {
+        "message": "Δημιουργία"
+    },
+    "button_cancel": {
+        "message": "Ακύρωση"
+    },
+    "message_get_code_empty": {
+        "message": "Ο μυστικός κωδικός δεν πρέπει να είναι κενός."
+    },
+    "message_get_code_success": {
+        "message": "Ο κωδικός 2FA ανακτήθηκε επιτυχώς και αντιγράφηκε στο πρόχειρο."
+    },
+    "message_get_code_error": {
+        "message": "Σφάλμα κατά την ανάκτηση του κωδικού 2FA."
+    },
+    "message_copy_success": {
+        "message": "Αντιγράφηκε στο πρόχειρο επιτυχώς."
+    },
+    "message_copy_error": {
+        "message": "Σφάλμα κατά την αντιγραφή στο πρόχειρο."
+    },
+    "message_delete_success": {
+        "message": "Το κλειδί διαγράφηκε επιτυχώς."
+    },
+    "message_delete_error": {
+        "message": "Σφάλμα κατά τη διαγραφή του κλειδιού."
+    },
+    "message_create_qr_error": {
+        "message": "Σφάλμα κατά τη δημιουργία του κωδικού QR."
+    },
+    "message_scan_qr_error": {
+        "message": "Σφάλμα κατά τη σάρωση του κωδικού QR."
+    },
+    "message_get_list_secret_key": {
+        "message": "Σφάλμα κατά την ανάκτηση της λίστας κλειδιών."
+    },
+    "message_website_empty": {
+        "message": "Ο ιστότοπος δεν μπορεί να είναι κενός."
+    },
+    "message_account_empty": {
+        "message": "Ο λογαριασμός δεν μπορεί να είναι κενός."
+    },
+    "message_secret_key_empty": {
+        "message": "Το μυστικό κλειδί δεν μπορεί να είναι κενό."
+    },
+    "message_add_success": {
+        "message": "Προστέθηκε επιτυχώς."
+    },
+    "message_add_error": {
+        "message": "Σφάλμα κατά την αποθήκευση του κλειδιού."
+    },
+    "placeholder_search": {
+        "message": "Αναζήτηση"
+    }
+}

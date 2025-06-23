@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTHENTICATOR"
+    },
+    "description_title": {
+        "message": "En säker och krypterad 2FA-kodhanterare designad för att skydda användardata och säkerställa trygghet."
+    },
+    "placeholder_input": {
+        "message": "Ange 2FA-koden: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Bearbetar..."
+    },
+    "button_get": {
+        "message": "Hämta"
+    },
+    "title_create": {
+        "message": "SKAPA 2FA"
+    },
+    "description_title_create": {
+        "message": "Ange informationen om 2FA-koden du vill spara."
+    },
+    "label_website": {
+        "message": "Webbplats"
+    },
+    "label_account": {
+        "message": "Konto"
+    },
+    "label_secret_key": {
+        "message": "Hemligt nyckel"
+    },
+    "button_create_running": {
+        "message": "Skapar..."
+    },
+    "button_create": {
+        "message": "Skapa"
+    },
+    "button_cancel": {
+        "message": "Avbryt"
+    },
+    "message_get_code_empty": {
+        "message": "Hemlig kod får inte vara tom."
+    },
+    "message_get_code_success": {
+        "message": "2FA-koden hämtades och kopierades till urklipp."
+    },
+    "message_get_code_error": {
+        "message": "Fel vid hämtning av 2FA-kod."
+    },
+    "message_copy_success": {
+        "message": "Kopierad till urklipp."
+    },
+    "message_copy_error": {
+        "message": "Fel vid kopiering till urklipp."
+    },
+    "message_delete_success": {
+        "message": "Nyckel borttagen."
+    },
+    "message_delete_error": {
+        "message": "Fel vid borttagning av nyckel."
+    },
+    "message_create_qr_error": {
+        "message": "Fel vid generering av QR-kod."
+    },
+    "message_scan_qr_error": {
+        "message": "Fel vid skanning av QR-kod."
+    },
+    "message_get_list_secret_key": {
+        "message": "Fel vid hämtning av nyckellista."
+    },
+    "message_website_empty": {
+        "message": "Webbplatsen får inte vara tom."
+    },
+    "message_account_empty": {
+        "message": "Kontot får inte vara tomt."
+    },
+    "message_secret_key_empty": {
+        "message": "Hemlig nyckel får inte vara tom."
+    },
+    "message_add_success": {
+        "message": "Tillagd."
+    },
+    "message_add_error": {
+        "message": "Fel vid sparande av nyckel."
+    },
+    "placeholder_search": {
+        "message": "Sök"
+    }
+}

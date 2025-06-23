@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "TODENTAJA"
+    },
+    "description_title": {
+        "message": "Turvallinen ja salattu 2FA-koodien hallinta, joka on suunniteltu suojaamaan käyttäjän tietoja ja varmistamaan turvallisuus."
+    },
+    "placeholder_input": {
+        "message": "Syötä 2FA-koodi: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Käsitellään..."
+    },
+    "button_get": {
+        "message": "Hae"
+    },
+    "title_create": {
+        "message": "LUO 2FA"
+    },
+    "description_title_create": {
+        "message": "Syötä 2FA-koodin tiedot, jotka haluat tallentaa."
+    },
+    "label_website": {
+        "message": "Verkkosivusto"
+    },
+    "label_account": {
+        "message": "Tili"
+    },
+    "label_secret_key": {
+        "message": "Salainen avain"
+    },
+    "button_create_running": {
+        "message": "Luodaan"
+    },
+    "button_create": {
+        "message": "Luo"
+    },
+    "button_cancel": {
+        "message": "Peruuta"
+    },
+    "message_get_code_empty": {
+        "message": "Salainen koodi ei voi olla tyhjä."
+    },
+    "message_get_code_success": {
+        "message": "2FA-koodi haettu onnistuneesti ja kopioitu leikepöydälle."
+    },
+    "message_get_code_error": {
+        "message": "Virhe 2FA-koodin haussa."
+    },
+    "message_copy_success": {
+        "message": "Kopioitu leikepöydälle onnistuneesti."
+    },
+    "message_copy_error": {
+        "message": "Virhe kopioitaessa leikepöydälle."
+    },
+    "message_delete_success": {
+        "message": "Avain poistettu onnistuneesti."
+    },
+    "message_delete_error": {
+        "message": "Virhe avaimen poistamisessa."
+    },
+    "message_create_qr_error": {
+        "message": "Virhe QR-koodin luomisessa."
+    },
+    "message_scan_qr_error": {
+        "message": "Virhe QR-koodin skannauksessa."
+    },
+    "message_get_list_secret_key": {
+        "message": "Virhe avainluettelon haussa."
+    },
+    "message_website_empty": {
+        "message": "Verkkosivusto ei voi olla tyhjä."
+    },
+    "message_account_empty": {
+        "message": "Tili ei voi olla tyhjä."
+    },
+    "message_secret_key_empty": {
+        "message": "Salainen avain ei voi olla tyhjä."
+    },
+    "message_add_success": {
+        "message": "Lisätty onnistuneesti."
+    },
+    "message_add_error": {
+        "message": "Virhe avaimen tallentamisessa."
+    },
+    "placeholder_search": {
+        "message": "Haku"
+    }
+}

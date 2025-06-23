@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "प्रमाणीकरणकर्ता"
+    },
+    "description_title": {
+        "message": "वापरकर्त्याचा डेटा सुरक्षित ठेवण्यासाठी आणि सुरक्षा सुनिश्चित करण्यासाठी डिझाइन केलेला सुरक्षित आणि एन्क्रिप्ट केलेला 2FA कोड व्यवस्थापक."
+    },
+    "placeholder_input": {
+        "message": "2FA कोड प्रविष्ट करा: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "प्रक्रिया चालू आहे..."
+    },
+    "button_get": {
+        "message": "प्राप्त करा"
+    },
+    "title_create": {
+        "message": "2FA तयार करा"
+    },
+    "description_title_create": {
+        "message": "तुम्ही साठवू इच्छित असलेली 2FA कोड माहिती प्रविष्ट करा."
+    },
+    "label_website": {
+        "message": "वेबसाईट"
+    },
+    "label_account": {
+        "message": "खाते"
+    },
+    "label_secret_key": {
+        "message": "गुप्त कळ"
+    },
+    "button_create_running": {
+        "message": "तयार करत आहे..."
+    },
+    "button_create": {
+        "message": "तयार करा"
+    },
+    "button_cancel": {
+        "message": "रद्द करा"
+    },
+    "message_get_code_empty": {
+        "message": "गुप्त कोड रिकामा असू नये."
+    },
+    "message_get_code_success": {
+        "message": "2FA कोड यशस्वीरित्या प्राप्त झाला आणि क्लिपबोर्डवर कॉपी केला."
+    },
+    "message_get_code_error": {
+        "message": "2FA कोड प्राप्त करण्यात त्रुटी."
+    },
+    "message_copy_success": {
+        "message": "क्लिपबोर्डवर यशस्वीरित्या कॉपी केले."
+    },
+    "message_copy_error": {
+        "message": "क्लिपबोर्डवर कॉपी करण्यात त्रुटी."
+    },
+    "message_delete_success": {
+        "message": "कळ यशस्वीरित्या हटवली."
+    },
+    "message_delete_error": {
+        "message": "कळ हटवताना त्रुटी."
+    },
+    "message_create_qr_error": {
+        "message": "QR कोड तयार करताना त्रुटी."
+    },
+    "message_scan_qr_error": {
+        "message": "QR कोड स्कॅन करताना त्रुटी."
+    },
+    "message_get_list_secret_key": {
+        "message": "गुप्त कळ यादी मिळवताना त्रुटी."
+    },
+    "message_website_empty": {
+        "message": "वेबसाईट रिकामी असू नये."
+    },
+    "message_account_empty": {
+        "message": "खाते रिकामे असू नये."
+    },
+    "message_secret_key_empty": {
+        "message": "गुप्त कळ रिकामी असू नये."
+    },
+    "message_add_success": {
+        "message": "यशस्वीरित्या जोडले."
+    },
+    "message_add_error": {
+        "message": "कळ जतन करण्यात त्रुटी."
+    },
+    "placeholder_search": {
+        "message": "शोधा"
+    }
+}

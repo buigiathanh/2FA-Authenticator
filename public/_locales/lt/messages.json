@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTENTIFIKATORIUS"
+    },
+    "description_title": {
+        "message": "Saugus ir užšifruotas 2FA kodų tvarkytuvas, skirtas apsaugoti vartotojų duomenis ir užtikrinti saugumą."
+    },
+    "placeholder_input": {
+        "message": "Įveskite 2FA kodą: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Vykdoma..."
+    },
+    "button_get": {
+        "message": "Gauti"
+    },
+    "title_create": {
+        "message": "SUKURTI 2FA"
+    },
+    "description_title_create": {
+        "message": "Įveskite 2FA kodo informaciją, kurią norite išsaugoti."
+    },
+    "label_website": {
+        "message": "Svetainė"
+    },
+    "label_account": {
+        "message": "Paskyra"
+    },
+    "label_secret_key": {
+        "message": "Slaptažodis"
+    },
+    "button_create_running": {
+        "message": "Kuriama..."
+    },
+    "button_create": {
+        "message": "Sukurti"
+    },
+    "button_cancel": {
+        "message": "Atšaukti"
+    },
+    "message_get_code_empty": {
+        "message": "Slaptas kodas negali būti tuščias."
+    },
+    "message_get_code_success": {
+        "message": "2FA kodas sėkmingai gautas ir nukopijuotas į iškarpinę."
+    },
+    "message_get_code_error": {
+        "message": "Klaida gaunant 2FA kodą."
+    },
+    "message_copy_success": {
+        "message": "Sėkmingai nukopijuota į iškarpinę."
+    },
+    "message_copy_error": {
+        "message": "Klaida kopijuojant į iškarpinę."
+    },
+    "message_delete_success": {
+        "message": "Raktas sėkmingai ištrintas."
+    },
+    "message_delete_error": {
+        "message": "Klaida trinant raktą."
+    },
+    "message_create_qr_error": {
+        "message": "Klaida generuojant QR kodą."
+    },
+    "message_scan_qr_error": {
+        "message": "Klaida skenuojant QR kodą."
+    },
+    "message_get_list_secret_key": {
+        "message": "Klaida gaunant raktų sąrašą."
+    },
+    "message_website_empty": {
+        "message": "Svetainės laukelis negali būti tuščias."
+    },
+    "message_account_empty": {
+        "message": "Paskyros laukelis negali būti tuščias."
+    },
+    "message_secret_key_empty": {
+        "message": "Slaptas raktas negali būti tuščias."
+    },
+    "message_add_success": {
+        "message": "Sėkmingai pridėta."
+    },
+    "message_add_error": {
+        "message": "Klaida išsaugant raktą."
+    },
+    "placeholder_search": {
+        "message": "Paieška"
+    }
+}

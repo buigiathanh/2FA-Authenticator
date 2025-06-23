@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "מאמת"
+    },
+    "description_title": {
+        "message": "מנהל קודי 2FA מאובטח ומוצפן, שנועד להגן על נתוני המשתמש ולהבטיח בטיחות."
+    },
+    "placeholder_input": {
+        "message": "הזן את קוד ה-2FA: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "מעבד..."
+    },
+    "button_get": {
+        "message": "קבל"
+    },
+    "title_create": {
+        "message": "צור 2FA"
+    },
+    "description_title_create": {
+        "message": "הזן את פרטי קוד ה-2FA שברצונך לאחסן."
+    },
+    "label_website": {
+        "message": "אתר אינטרנט"
+    },
+    "label_account": {
+        "message": "חשבון"
+    },
+    "label_secret_key": {
+        "message": "מפתח סודי"
+    },
+    "button_create_running": {
+        "message": "יוצר"
+    },
+    "button_create": {
+        "message": "צור"
+    },
+    "button_cancel": {
+        "message": "בטל"
+    },
+    "message_get_code_empty": {
+        "message": "הקוד הסודי אינו יכול להיות ריק."
+    },
+    "message_get_code_success": {
+        "message": "קוד 2FA נקלט בהצלחה והועתק ללוח."
+    },
+    "message_get_code_error": {
+        "message": "שגיאה בקבלת קוד 2FA."
+    },
+    "message_copy_success": {
+        "message": "הועתק ללוח בהצלחה."
+    },
+    "message_copy_error": {
+        "message": "שגיאה בהעתקה ללוח."
+    },
+    "message_delete_success": {
+        "message": "המפתח נמחק בהצלחה."
+    },
+    "message_delete_error": {
+        "message": "שגיאה במחיקת המפתח."
+    },
+    "message_create_qr_error": {
+        "message": "שגיאה ביצירת קוד QR."
+    },
+    "message_scan_qr_error": {
+        "message": "שגיאה בסריקת קוד QR."
+    },
+    "message_get_list_secret_key": {
+        "message": "שגיאה בקבלת רשימת המפתחות."
+    },
+    "message_website_empty": {
+        "message": "אתר האינטרנט אינו יכול להיות ריק."
+    },
+    "message_account_empty": {
+        "message": "החשבון אינו יכול להיות ריק."
+    },
+    "message_secret_key_empty": {
+        "message": "המפתח הסודי אינו יכול להיות ריק."
+    },
+    "message_add_success": {
+        "message": "נוסף בהצלחה."
+    },
+    "message_add_error": {
+        "message": "שגיאה בשמירת המפתח."
+    },
+    "placeholder_search": {
+        "message": "חיפוש"
+    }
+}

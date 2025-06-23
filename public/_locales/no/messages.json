@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTENTIFIKATOR"
+    },
+    "description_title": {
+        "message": "En sikker og kryptert 2FA-kodebehandler designet for å beskytte brukerdata og sikre trygghet."
+    },
+    "placeholder_input": {
+        "message": "Skriv inn 2FA-koden: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Behandler..."
+    },
+    "button_get": {
+        "message": "Hent"
+    },
+    "title_create": {
+        "message": "OPPRETT 2FA"
+    },
+    "description_title_create": {
+        "message": "Skriv inn informasjonen om 2FA-koden du vil lagre."
+    },
+    "label_website": {
+        "message": "Nettsted"
+    },
+    "label_account": {
+        "message": "Konto"
+    },
+    "label_secret_key": {
+        "message": "Hemmelig nøkkel"
+    },
+    "button_create_running": {
+        "message": "Oppretter..."
+    },
+    "button_create": {
+        "message": "Opprett"
+    },
+    "button_cancel": {
+        "message": "Avbryt"
+    },
+    "message_get_code_empty": {
+        "message": "Den hemmelige koden kan ikke være tom."
+    },
+    "message_get_code_success": {
+        "message": "2FA-koden ble hentet og kopiert til utklippstavlen."
+    },
+    "message_get_code_error": {
+        "message": "Feil ved henting av 2FA-koden."
+    },
+    "message_copy_success": {
+        "message": "Kopiert til utklippstavlen."
+    },
+    "message_copy_error": {
+        "message": "Feil ved kopiering til utklippstavlen."
+    },
+    "message_delete_success": {
+        "message": "Nøkkel slettet."
+    },
+    "message_delete_error": {
+        "message": "Feil ved sletting av nøkkel."
+    },
+    "message_create_qr_error": {
+        "message": "Feil ved generering av QR-kode."
+    },
+    "message_scan_qr_error": {
+        "message": "Feil ved skanning av QR-kode."
+    },
+    "message_get_list_secret_key": {
+        "message": "Feil ved henting av nøkkelliste."
+    },
+    "message_website_empty": {
+        "message": "Nettsted kan ikke være tomt."
+    },
+    "message_account_empty": {
+        "message": "Konto kan ikke være tom."
+    },
+    "message_secret_key_empty": {
+        "message": "Hemmelig nøkkel kan ikke være tom."
+    },
+    "message_add_success": {
+        "message": "Lagt til."
+    },
+    "message_add_error": {
+        "message": "Feil ved lagring av nøkkel."
+    },
+    "placeholder_search": {
+        "message": "Søk"
+    }
+}

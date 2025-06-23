@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "АУТЕНТИКАТОР"
+    },
+    "description_title": {
+        "message": "Сигурен и криптиран мениджър на 2FA кодове, предназначен да защитава данните на потребителя и да гарантира безопасност."
+    },
+    "placeholder_input": {
+        "message": "Въведете 2FA кода: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Обработва се..."
+    },
+    "button_get": {
+        "message": "Вземи"
+    },
+    "title_create": {
+        "message": "СЪЗДАЙ 2FA"
+    },
+    "description_title_create": {
+        "message": "Въведете информацията за 2FA кода, който искате да запазите."
+    },
+    "label_website": {
+        "message": "Уебсайт"
+    },
+    "label_account": {
+        "message": "Акаунт"
+    },
+    "label_secret_key": {
+        "message": "Таен ключ"
+    },
+    "button_create_running": {
+        "message": "Създава се"
+    },
+    "button_create": {
+        "message": "Създай"
+    },
+    "button_cancel": {
+        "message": "Отказ"
+    },
+    "message_get_code_empty": {
+        "message": "Тайният код не трябва да бъде празен."
+    },
+    "message_get_code_success": {
+        "message": "2FA кодът е успешно извлечен и копиран в клипборда."
+    },
+    "message_get_code_error": {
+        "message": "Грешка при извличане на 2FA кода."
+    },
+    "message_copy_success": {
+        "message": "Копирано в клипборда успешно."
+    },
+    "message_copy_error": {
+        "message": "Грешка при копирането в клипборда."
+    },
+    "message_delete_success": {
+        "message": "Ключът е изтрит успешно."
+    },
+    "message_delete_error": {
+        "message": "Грешка при изтриването на ключа."
+    },
+    "message_create_qr_error": {
+        "message": "Грешка при генериране на QR код."
+    },
+    "message_scan_qr_error": {
+        "message": "Грешка при сканиране на QR код."
+    },
+    "message_get_list_secret_key": {
+        "message": "Грешка при извличане на списъка с ключове."
+    },
+    "message_website_empty": {
+        "message": "Уебсайтът не може да бъде празен."
+    },
+    "message_account_empty": {
+        "message": "Акаунтът не може да бъде празен."
+    },
+    "message_secret_key_empty": {
+        "message": "Тайният ключ не може да бъде празен."
+    },
+    "message_add_success": {
+        "message": "Добавено успешно."
+    },
+    "message_add_error": {
+        "message": "Грешка при запазване на ключа."
+    },
+    "placeholder_search": {
+        "message": "търсене"
+    }
+}

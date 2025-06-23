@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "HITELESÍTŐ"
+    },
+    "description_title": {
+        "message": "Egy biztonságos és titkosított 2FA kódkezelő, amely a felhasználói adatok védelmét és a biztonságot szolgálja."
+    },
+    "placeholder_input": {
+        "message": "Írd be a 2FA kódot: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Feldolgozás..."
+    },
+    "button_get": {
+        "message": "Lekérés"
+    },
+    "title_create": {
+        "message": "2FA LÉTREHOZÁSA"
+    },
+    "description_title_create": {
+        "message": "Add meg a menteni kívánt 2FA kód adatait."
+    },
+    "label_website": {
+        "message": "Weboldal"
+    },
+    "label_account": {
+        "message": "Fiók"
+    },
+    "label_secret_key": {
+        "message": "Titkos kulcs"
+    },
+    "button_create_running": {
+        "message": "Létrehozás..."
+    },
+    "button_create": {
+        "message": "Létrehozás"
+    },
+    "button_cancel": {
+        "message": "Mégse"
+    },
+    "message_get_code_empty": {
+        "message": "A titkos kód nem lehet üres."
+    },
+    "message_get_code_success": {
+        "message": "2FA kód sikeresen lekérve és vágólapra másolva."
+    },
+    "message_get_code_error": {
+        "message": "Hiba a 2FA kód lekérésekor."
+    },
+    "message_copy_success": {
+        "message": "Sikeresen vágólapra másolva."
+    },
+    "message_copy_error": {
+        "message": "Hiba a vágólapra másolás során."
+    },
+    "message_delete_success": {
+        "message": "Kulcs sikeresen törölve."
+    },
+    "message_delete_error": {
+        "message": "Hiba a kulcs törlése során."
+    },
+    "message_create_qr_error": {
+        "message": "Hiba a QR-kód generálása során."
+    },
+    "message_scan_qr_error": {
+        "message": "Hiba a QR-kód beolvasása során."
+    },
+    "message_get_list_secret_key": {
+        "message": "Hiba a kulcslista lekérésekor."
+    },
+    "message_website_empty": {
+        "message": "A weboldal nem lehet üres."
+    },
+    "message_account_empty": {
+        "message": "A fiók nem lehet üres."
+    },
+    "message_secret_key_empty": {
+        "message": "A titkos kulcs nem lehet üres."
+    },
+    "message_add_success": {
+        "message": "Sikeresen hozzáadva."
+    },
+    "message_add_error": {
+        "message": "Hiba a kulcs mentése során."
+    },
+    "placeholder_search": {
+        "message": "Keresés"
+    }
+}

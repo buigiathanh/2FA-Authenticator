@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTENTICADOR"
+    },
+    "description_title": {
+        "message": "Un gestor de codis 2FA segur i encriptat dissenyat per protegir les dades de l'usuari i garantir la seguretat."
+    },
+    "placeholder_input": {
+        "message": "Introduïu el codi 2FA: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Processant..."
+    },
+    "button_get": {
+        "message": "Obtenir"
+    },
+    "title_create": {
+        "message": "CREAR 2FA"
+    },
+    "description_title_create": {
+        "message": "Introduïu la informació del codi 2FA que voleu emmagatzemar."
+    },
+    "label_website": {
+        "message": "Lloc web"
+    },
+    "label_account": {
+        "message": "Compte"
+    },
+    "label_secret_key": {
+        "message": "Clau secreta"
+    },
+    "button_create_running": {
+        "message": "Creant"
+    },
+    "button_create": {
+        "message": "Crear"
+    },
+    "button_cancel": {
+        "message": "Cancel·lar"
+    },
+    "message_get_code_empty": {
+        "message": "El codi secret no pot estar buit."
+    },
+    "message_get_code_success": {
+        "message": "Codi 2FA obtingut correctament i copiat al porta-retalls."
+    },
+    "message_get_code_error": {
+        "message": "Error en obtenir el codi 2FA."
+    },
+    "message_copy_success": {
+        "message": "Copiat al porta-retalls correctament."
+    },
+    "message_copy_error": {
+        "message": "Error en copiar al porta-retalls."
+    },
+    "message_delete_success": {
+        "message": "Clau eliminada correctament."
+    },
+    "message_delete_error": {
+        "message": "Error en eliminar la clau."
+    },
+    "message_create_qr_error": {
+        "message": "Error en generar el codi QR."
+    },
+    "message_scan_qr_error": {
+        "message": "Error en escanejar el codi QR."
+    },
+    "message_get_list_secret_key": {
+        "message": "Error en obtenir la llista de claus."
+    },
+    "message_website_empty": {
+        "message": "El lloc web no pot estar buit."
+    },
+    "message_account_empty": {
+        "message": "El compte no pot estar buit."
+    },
+    "message_secret_key_empty": {
+        "message": "La clau secreta no pot estar buida."
+    },
+    "message_add_success": {
+        "message": "Afegit correctament."
+    },
+    "message_add_error": {
+        "message": "Error en desar la clau."
+    },
+    "placeholder_search": {
+        "message": "cerca"
+    }
+}

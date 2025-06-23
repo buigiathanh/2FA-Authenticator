@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "احراز هویت"
+    },
+    "description_title": {
+        "message": "مدیریت کدهای دو مرحله‌ای امن و رمزگذاری‌شده، طراحی‌شده برای محافظت از داده‌های کاربر و تضمین امنیت."
+    },
+    "placeholder_input": {
+        "message": "کد دو مرحله‌ای را وارد کنید: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "در حال پردازش..."
+    },
+    "button_get": {
+        "message": "دریافت"
+    },
+    "title_create": {
+        "message": "ایجاد دو مرحله‌ای"
+    },
+    "description_title_create": {
+        "message": "اطلاعات کد دو مرحله‌ای که می‌خواهید ذخیره کنید را وارد کنید."
+    },
+    "label_website": {
+        "message": "وب‌سایت"
+    },
+    "label_account": {
+        "message": "حساب"
+    },
+    "label_secret_key": {
+        "message": "کلید مخفی"
+    },
+    "button_create_running": {
+        "message": "در حال ایجاد"
+    },
+    "button_create": {
+        "message": "ایجاد"
+    },
+    "button_cancel": {
+        "message": "لغو"
+    },
+    "message_get_code_empty": {
+        "message": "کد مخفی نمی‌تواند خالی باشد."
+    },
+    "message_get_code_success": {
+        "message": "کد دو مرحله‌ای با موفقیت دریافت و به کلیپ‌بورد کپی شد."
+    },
+    "message_get_code_error": {
+        "message": "خطا در دریافت کد دو مرحله‌ای."
+    },
+    "message_copy_success": {
+        "message": "با موفقیت به کلیپ‌بورد کپی شد."
+    },
+    "message_copy_error": {
+        "message": "خطا در کپی به کلیپ‌بورد."
+    },
+    "message_delete_success": {
+        "message": "کلید با موفقیت حذف شد."
+    },
+    "message_delete_error": {
+        "message": "خطا در حذف کلید."
+    },
+    "message_create_qr_error": {
+        "message": "خطا در تولید کد QR."
+    },
+    "message_scan_qr_error": {
+        "message": "خطا در اسکن کد QR."
+    },
+    "message_get_list_secret_key": {
+        "message": "خطا در دریافت لیست کلیدها."
+    },
+    "message_website_empty": {
+        "message": "وب‌سایت نمی‌تواند خالی باشد."
+    },
+    "message_account_empty": {
+        "message": "حساب نمی‌تواند خالی باشد."
+    },
+    "message_secret_key_empty": {
+        "message": "کلید مخفی نمی‌تواند خالی باشد."
+    },
+    "message_add_success": {
+        "message": "با موفقیت اضافه شد."
+    },
+    "message_add_error": {
+        "message": "خطا در ذخیره کلید."
+    },
+    "placeholder_search": {
+        "message": "جستجو"
+    }
+}

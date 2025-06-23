@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTHENTIKÁTOR"
+    },
+    "description_title": {
+        "message": "Bezpečný a šifrovaný manažér 2FA kódov navrhnutý na ochranu používateľských údajov a zabezpečenie bezpečnosti."
+    },
+    "placeholder_input": {
+        "message": "Zadajte 2FA kód: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Spracovanie..."
+    },
+    "button_get": {
+        "message": "Získať"
+    },
+    "title_create": {
+        "message": "VYTVORIŤ 2FA"
+    },
+    "description_title_create": {
+        "message": "Zadajte informácie o 2FA kóde, ktoré chcete uložiť."
+    },
+    "label_website": {
+        "message": "Webová stránka"
+    },
+    "label_account": {
+        "message": "Účet"
+    },
+    "label_secret_key": {
+        "message": "Tajný kľúč"
+    },
+    "button_create_running": {
+        "message": "Vytvára sa..."
+    },
+    "button_create": {
+        "message": "Vytvoriť"
+    },
+    "button_cancel": {
+        "message": "Zrušiť"
+    },
+    "message_get_code_empty": {
+        "message": "Tajný kód nesmie byť prázdny."
+    },
+    "message_get_code_success": {
+        "message": "2FA kód bol úspešne získaný a skopírovaný do schránky."
+    },
+    "message_get_code_error": {
+        "message": "Chyba pri získavaní 2FA kódu."
+    },
+    "message_copy_success": {
+        "message": "Úspešne skopírované do schránky."
+    },
+    "message_copy_error": {
+        "message": "Chyba pri kopírovaní do schránky."
+    },
+    "message_delete_success": {
+        "message": "Kľúč bol úspešne odstránený."
+    },
+    "message_delete_error": {
+        "message": "Chyba pri odstraňovaní kľúča."
+    },
+    "message_create_qr_error": {
+        "message": "Chyba pri generovaní QR kódu."
+    },
+    "message_scan_qr_error": {
+        "message": "Chyba pri skenovaní QR kódu."
+    },
+    "message_get_list_secret_key": {
+        "message": "Chyba pri získavaní zoznamu kľúčov."
+    },
+    "message_website_empty": {
+        "message": "Webová stránka nesmie byť prázdna."
+    },
+    "message_account_empty": {
+        "message": "Účet nesmie byť prázdny."
+    },
+    "message_secret_key_empty": {
+        "message": "Tajný kľúč nesmie byť prázdny."
+    },
+    "message_add_success": {
+        "message": "Úspešne pridané."
+    },
+    "message_add_error": {
+        "message": "Chyba pri ukladaní kľúča."
+    },
+    "placeholder_search": {
+        "message": "Hľadať"
+    }
+}

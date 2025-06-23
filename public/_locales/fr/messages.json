@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTHENTIFICATEUR"
+    },
+    "description_title": {
+        "message": "Un gestionnaire de codes 2FA sécurisé et crypté conçu pour protéger les données des utilisateurs et garantir la sécurité."
+    },
+    "placeholder_input": {
+        "message": "Entrez le code 2FA : BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "En cours de traitement..."
+    },
+    "button_get": {
+        "message": "Obtenir"
+    },
+    "title_create": {
+        "message": "CRÉER 2FA"
+    },
+    "description_title_create": {
+        "message": "Entrez les informations du code 2FA que vous souhaitez stocker."
+    },
+    "label_website": {
+        "message": "Site web"
+    },
+    "label_account": {
+        "message": "Compte"
+    },
+    "label_secret_key": {
+        "message": "Clé secrète"
+    },
+    "button_create_running": {
+        "message": "Création en cours"
+    },
+    "button_create": {
+        "message": "Créer"
+    },
+    "button_cancel": {
+        "message": "Annuler"
+    },
+    "message_get_code_empty": {
+        "message": "Le code secret ne peut pas être vide."
+    },
+    "message_get_code_success": {
+        "message": "Code 2FA obtenu avec succès et copié dans le presse-papiers."
+    },
+    "message_get_code_error": {
+        "message": "Erreur lors de l'obtention du code 2FA."
+    },
+    "message_copy_success": {
+        "message": "Copié dans le presse-papiers avec succès."
+    },
+    "message_copy_error": {
+        "message": "Erreur lors de la copie dans le presse-papiers."
+    },
+    "message_delete_success": {
+        "message": "Clé supprimée avec succès."
+    },
+    "message_delete_error": {
+        "message": "Erreur lors de la suppression de la clé."
+    },
+    "message_create_qr_error": {
+        "message": "Erreur lors de la génération du code QR."
+    },
+    "message_scan_qr_error": {
+        "message": "Erreur lors du scan du code QR."
+    },
+    "message_get_list_secret_key": {
+        "message": "Erreur lors de la récupération de la liste des clés."
+    },
+    "message_website_empty": {
+        "message": "Le site web ne peut pas être vide."
+    },
+    "message_account_empty": {
+        "message": "Le compte ne peut pas être vide."
+    },
+    "message_secret_key_empty": {
+        "message": "La clé secrète ne peut pas être vide."
+    },
+    "message_add_success": {
+        "message": "Ajouté avec succès."
+    },
+    "message_add_error": {
+        "message": "Erreur lors de l'enregistrement de la clé."
+    },
+    "placeholder_search": {
+        "message": "Recherche"
+    }
+}

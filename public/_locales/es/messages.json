@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTENTICADOR"
+    },
+    "description_title": {
+        "message": "Un administrador de códigos 2FA seguro y encriptado diseñado para proteger los datos del usuario y garantizar la seguridad."
+    },
+    "placeholder_input": {
+        "message": "Ingrese el código 2FA: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Procesando..."
+    },
+    "button_get": {
+        "message": "Obtener"
+    },
+    "title_create": {
+        "message": "CREAR 2FA"
+    },
+    "description_title_create": {
+        "message": "Ingrese la información del código 2FA que desea almacenar."
+    },
+    "label_website": {
+        "message": "Sitio web"
+    },
+    "label_account": {
+        "message": "Cuenta"
+    },
+    "label_secret_key": {
+        "message": "Clave secreta"
+    },
+    "button_create_running": {
+        "message": "Creando"
+    },
+    "button_create": {
+        "message": "Crear"
+    },
+    "button_cancel": {
+        "message": "Cancelar"
+    },
+    "message_get_code_empty": {
+        "message": "El código secreto no puede estar vacío."
+    },
+    "message_get_code_success": {
+        "message": "Código 2FA obtenido con éxito y copiado al portapapeles."
+    },
+    "message_get_code_error": {
+        "message": "Error al obtener el código 2FA."
+    },
+    "message_copy_success": {
+        "message": "Copiado al portapapeles con éxito."
+    },
+    "message_copy_error": {
+        "message": "Error al copiar al portapapeles."
+    },
+    "message_delete_success": {
+        "message": "Clave eliminada con éxito."
+    },
+    "message_delete_error": {
+        "message": "Error al eliminar la clave."
+    },
+    "message_create_qr_error": {
+        "message": "Error al generar el código QR."
+    },
+    "message_scan_qr_error": {
+        "message": "Error al escanear el código QR."
+    },
+    "message_get_list_secret_key": {
+        "message": "Error al obtener la lista de claves."
+    },
+    "message_website_empty": {
+        "message": "El sitio web no puede estar vacío."
+    },
+    "message_account_empty": {
+        "message": "La cuenta no puede estar vacía."
+    },
+    "message_secret_key_empty": {
+        "message": "La clave secreta no puede estar vacía."
+    },
+    "message_add_success": {
+        "message": "Añadido con éxito."
+    },
+    "message_add_error": {
+        "message": "Error al guardar la clave."
+    },
+    "placeholder_search": {
+        "message": "Buscar"
+    }
+}

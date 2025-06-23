@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "AUTHENTICATOR"
+    },
+    "description_title": {
+        "message": "A secure and encrypted 2FA code manager designed to protect user data and ensure safety."
+    },
+    "placeholder_input": {
+        "message": "Enter the 2FA code: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Processing..."
+    },
+    "button_get": {
+        "message": "Get"
+    },
+    "title_create": {
+        "message": "CREATE 2FA"
+    },
+    "description_title_create": {
+        "message": "Enter the 2FA code information you want to store."
+    },
+    "label_website": {
+        "message": "Website"
+    },
+    "label_account": {
+        "message": "Account"
+    },
+    "label_secret_key": {
+        "message": "Secret key"
+    },
+    "button_create_running": {
+        "message": "Creating"
+    },
+    "button_create": {
+        "message": "Create"
+    },
+    "button_cancel": {
+        "message": "Cancel"
+    },
+    "message_get_code_empty": {
+        "message": "Secret code must not be empty."
+    },
+    "message_get_code_success": {
+        "message": "2FA code retrieved successfully and copied to clipboard"
+    },
+    "message_get_code_error": {
+        "message": "Error retrieving 2FA code"
+    },
+    "message_copy_success": {
+        "message": "Copied to clipboard successfully."
+    },
+    "message_copy_error": {
+        "message": "Error copying to clipboard."
+    },
+    "message_delete_success": {
+        "message": "Key deleted successfully."
+    },
+    "message_delete_error": {
+        "message": "Error deleting key."
+    },
+    "message_create_qr_error": {
+        "message": "Error generating QR code."
+    },
+    "message_scan_qr_error": {
+        "message": "Error scanning QR code."
+    },
+    "message_get_list_secret_key": {
+        "message": "Error retrieving key list."
+    },
+    "message_website_empty": {
+        "message": "Website cannot be empty."
+    },
+    "message_account_empty": {
+        "message": "Account cannot be empty."
+    },
+    "message_secret_key_empty": {
+        "message": "Secret cannot be empty."
+    },
+    "message_add_success": {
+        "message": "Added successfully."
+    },
+    "message_add_error": {
+        "message": "Error saving key."
+    },
+    "placeholder_search": {
+        "message": "Search"
+    }
+}

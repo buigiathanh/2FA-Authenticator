@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "MTHIBITISHAJI"
+    },
+    "description_title": {
+        "message": "Msimamizi wa msimbo wa 2FA salama na uliofichwa ulioundwa kulinda data za mtumiaji na kuhakikisha usalama."
+    },
+    "placeholder_input": {
+        "message": "Ingiza msimbo wa 2FA: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "Inatekelezwa..."
+    },
+    "button_get": {
+        "message": "Pata"
+    },
+    "title_create": {
+        "message": "TUNZA 2FA"
+    },
+    "description_title_create": {
+        "message": "Weka taarifa za msimbo wa 2FA unazotaka kuhifadhi."
+    },
+    "label_website": {
+        "message": "Tovuti"
+    },
+    "label_account": {
+        "message": "Akaunti"
+    },
+    "label_secret_key": {
+        "message": "Funguo la siri"
+    },
+    "button_create_running": {
+        "message": "Inaundwa..."
+    },
+    "button_create": {
+        "message": "Tengeneza"
+    },
+    "button_cancel": {
+        "message": "Ghairi"
+    },
+    "message_get_code_empty": {
+        "message": "Msimbo wa siri haupaswi kuwa tupu."
+    },
+    "message_get_code_success": {
+        "message": "Msimbo wa 2FA umefanikiwa kupatikana na kuandikwa kwenye ubao wa kunakili."
+    },
+    "message_get_code_error": {
+        "message": "Hitilafu katika kupata msimbo wa 2FA."
+    },
+    "message_copy_success": {
+        "message": "Imenakiliwa kwa mafanikio."
+    },
+    "message_copy_error": {
+        "message": "Hitilafu katika kunakili."
+    },
+    "message_delete_success": {
+        "message": "Funguo limefutwa kwa mafanikio."
+    },
+    "message_delete_error": {
+        "message": "Hitilafu katika kufuta funguo."
+    },
+    "message_create_qr_error": {
+        "message": "Hitilafu katika kuunda msimbo wa QR."
+    },
+    "message_scan_qr_error": {
+        "message": "Hitilafu katika kusoma msimbo wa QR."
+    },
+    "message_get_list_secret_key": {
+        "message": "Hitilafu katika kupata orodha ya funguo."
+    },
+    "message_website_empty": {
+        "message": "Tovuti haiwezi kuwa tupu."
+    },
+    "message_account_empty": {
+        "message": "Akaunti haiwezi kuwa tupu."
+    },
+    "message_secret_key_empty": {
+        "message": "Funguo la siri haliwezi kuwa tupu."
+    },
+    "message_add_success": {
+        "message": "Imeongezwa kwa mafanikio."
+    },
+    "message_add_error": {
+        "message": "Hitilafu katika kuhifadhi funguo."
+    },
+    "placeholder_search": {
+        "message": "Tafuta"
+    }
+}

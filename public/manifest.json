@@ -1,0 +1,67 @@
+{
+	"short_name": "2FA Authenticator",
+	"name": "2FA Authenticator",
+	"description": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator.",
+	"icons": {
+		"16": "icons/16x16.png",
+		"32": "icons/32x32.png",
+		"48": "icons/48x48.png",
+		"128": "icons/128x128.png"
+	},
+	"action": {
+		"default_icon": {
+			"16": "icons/16x16.png",
+			"32": "icons/32x32.png",
+			"48": "icons/48x48.png",
+			"128": "icons/128x128.png"
+		}
+	},
+	"manifest_version": 3,
+	"version": "1.0.0.2",
+    "default_locale": "en",
+	"host_permissions": [
+		"https://*/*",
+		"http://*/*"
+	],
+	"permissions": [
+        "storage",
+        "activeTab",
+        "sidePanel"
+    ],
+	"content_scripts": [
+		{
+			"matches": [
+				"<all_urls>"
+			],
+			"js": [
+				"static/content_scripts/main.js"
+			],
+			"css": [
+				"static/content_css/main.css"
+			],
+			"run_at": "document_idle"
+		}
+	],
+	"web_accessible_resources": [
+		{
+			"resources": [
+				"images/*",
+				"svg/*",
+				"static/*",
+				"pages/*",
+				"gifs/*",
+				"fonts/*",
+                "scripts/*"
+			],
+			"matches": [
+				"<all_urls>"
+			]
+		}
+	],
+	"content_security_policy": {
+		"extension_pages": "script-src 'self'; object-src 'self';script-src-elem 'self' "
+	},
+	"background": {
+		"service_worker": "service_worker/background.bundle.js"
+	}
+}

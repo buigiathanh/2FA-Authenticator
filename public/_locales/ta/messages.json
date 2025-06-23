@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "அங்கீகாரி"
+    },
+    "description_title": {
+        "message": "பயனர் தரவை பாதுகாக்கவும், பாதுகாப்பை உறுதி செய்யவும் வடிவமைக்கப்பட்ட பாதுகாப்பான மற்றும் குறியாக்க செய்யப்பட்ட 2FA குறியீடு மேலாளர்."
+    },
+    "placeholder_input": {
+        "message": "2FA குறியீட்டை உள்ளிடுக: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "செயல்படுத்தப்படுகிறது..."
+    },
+    "button_get": {
+        "message": "பெறு"
+    },
+    "title_create": {
+        "message": "2FA உருவாக்கு"
+    },
+    "description_title_create": {
+        "message": "நீங்கள் சேமிக்க விரும்பும் 2FA குறியீட்டின் தகவல்களை உள்ளிடுக."
+    },
+    "label_website": {
+        "message": "இணையதளம்"
+    },
+    "label_account": {
+        "message": "கணக்கு"
+    },
+    "label_secret_key": {
+        "message": "ரகசிய விசை"
+    },
+    "button_create_running": {
+        "message": "உருவாக்கப்படுகிறது..."
+    },
+    "button_create": {
+        "message": "உருவாக்கு"
+    },
+    "button_cancel": {
+        "message": "ரத்து செய்"
+    },
+    "message_get_code_empty": {
+        "message": "ரகசிய குறியீடு காலியானதாக இருக்கக்கூடாது."
+    },
+    "message_get_code_success": {
+        "message": "2FA குறியீடு வெற்றிகரமாக பெற்றுக்கொள்ளப்பட்டது மற்றும் கிளிப்போர்டில் நகலெடுக்கப்பட்டது"
+    },
+    "message_get_code_error": {
+        "message": "2FA குறியீட்டை பெறுவதில் பிழை"
+    },
+    "message_copy_success": {
+        "message": "வெற்றிகரமாக கிளிப்போர்டில் நகலெடுக்கப்பட்டது."
+    },
+    "message_copy_error": {
+        "message": "கிளிப்போர்டில் நகலெடுக்குவதில் பிழை."
+    },
+    "message_delete_success": {
+        "message": "கீ வெற்றிகரமாக நீக்கப்பட்டது."
+    },
+    "message_delete_error": {
+        "message": "கீ நீக்குவதில் பிழை."
+    },
+    "message_create_qr_error": {
+        "message": "QR குறியீடு உருவாக்குவதில் பிழை."
+    },
+    "message_scan_qr_error": {
+        "message": "QR குறியீடு ஸ்கேன் செய்யும்போது பிழை."
+    },
+    "message_get_list_secret_key": {
+        "message": "கீ பட்டியலைப் பெறுவதில் பிழை."
+    },
+    "message_website_empty": {
+        "message": "இணையதளம் காலியாக இருக்கக்கூடாது."
+    },
+    "message_account_empty": {
+        "message": "கணக்கு காலியாக இருக்கக்கூடாது."
+    },
+    "message_secret_key_empty": {
+        "message": "ரகசிய விசை காலியாக இருக்கக்கூடாது."
+    },
+    "message_add_success": {
+        "message": "வெற்றிகரமாக சேர்க்கப்பட்டது."
+    },
+    "message_add_error": {
+        "message": "கீ சேமிப்பதில் பிழை."
+    },
+    "placeholder_search": {
+        "message": "தேடு"
+    }
+}

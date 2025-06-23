@@ -1,0 +1,98 @@
+{
+    "ext_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_short_name": {
+        "message": "2FA Authenticator"
+    },
+    "ext_description": {
+        "message": "Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator."
+    },
+    "title": {
+        "message": "प्रमाणीकरणकर्ता"
+    },
+    "description_title": {
+        "message": "उपयोगकर्ता डेटा की सुरक्षा और सुरक्षा सुनिश्चित करने के लिए डिज़ाइन किया गया एक सुरक्षित और एन्क्रिप्टेड 2FA कोड प्रबंधक।"
+    },
+    "placeholder_input": {
+        "message": "2FA कोड दर्ज करें: BK5V TVQ7 D2RB..."
+    },
+    "button_get_running": {
+        "message": "प्रसंस्करण हो रहा है..."
+    },
+    "button_get": {
+        "message": "प्राप्त करें"
+    },
+    "title_create": {
+        "message": "2FA बनाएं"
+    },
+    "description_title_create": {
+        "message": "वह 2FA कोड जानकारी दर्ज करें जिसे आप सहेजना चाहते हैं।"
+    },
+    "label_website": {
+        "message": "वेबसाइट"
+    },
+    "label_account": {
+        "message": "खाता"
+    },
+    "label_secret_key": {
+        "message": "गुप्त कुंजी"
+    },
+    "button_create_running": {
+        "message": "बनाया जा रहा है"
+    },
+    "button_create": {
+        "message": "बनाएं"
+    },
+    "button_cancel": {
+        "message": "रद्द करें"
+    },
+    "message_get_code_empty": {
+        "message": "गुप्त कोड खाली नहीं होना चाहिए।"
+    },
+    "message_get_code_success": {
+        "message": "2FA कोड सफलतापूर्वक प्राप्त हुआ और क्लिपबोर्ड पर कॉपी किया गया।"
+    },
+    "message_get_code_error": {
+        "message": "2FA कोड प्राप्त करने में त्रुटि"
+    },
+    "message_copy_success": {
+        "message": "सफलतापूर्वक क्लिपबोर्ड पर कॉपी किया गया।"
+    },
+    "message_copy_error": {
+        "message": "क्लिपबोर्ड पर कॉपी करने में त्रुटि।"
+    },
+    "message_delete_success": {
+        "message": "कुंजी सफलतापूर्वक हटाई गई।"
+    },
+    "message_delete_error": {
+        "message": "कुंजी हटाने में त्रुटि।"
+    },
+    "message_create_qr_error": {
+        "message": "QR कोड जनरेट करने में त्रुटि।"
+    },
+    "message_scan_qr_error": {
+        "message": "QR कोड स्कैन करने में त्रुटि।"
+    },
+    "message_get_list_secret_key": {
+        "message": "कुंजी सूची प्राप्त करने में त्रुटि।"
+    },
+    "message_website_empty": {
+        "message": "वेबसाइट खाली नहीं हो सकती।"
+    },
+    "message_account_empty": {
+        "message": "खाता खाली नहीं हो सकता।"
+    },
+    "message_secret_key_empty": {
+        "message": "गुप्त कुंजी खाली नहीं हो सकती।"
+    },
+    "message_add_success": {
+        "message": "सफलतापूर्वक जोड़ा गया।"
+    },
+    "message_add_error": {
+        "message": "कुंजी सहेजने में त्रुटि।"
+    },
+    "placeholder_search": {
+        "message": "खोजें"
+    }
+}
