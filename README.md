@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# 2FA Authenticator 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+Free 2FA Authenticator app, Chrome extension alternative to Google Authenticator.
 
-In the project directory, you can run:
+2FA Authenticator is a powerful extension designed to enhance your online security by generating time-based one-time passwords (TOTP) for two-factor authentication (2FA). With 2FA Authenticator, you can easily manage your 2FA codes for various websites and services directly within your browser.
 
-### `npm start`
+No more switching between apps or devices—this extension keeps all your 2FA tokens conveniently in one place, making your online accounts more secure and access more efficient. Simply scan QR codes, enter your secrets, and start protecting your accounts with ease.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Features:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🔥 Securely store and manage your 2FA codes.
 
-### `npm test`
+🔥 Automatically generate one-time passwords for quick login.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🔥 Simple and easy-to-use interface for hassle-free setup.
 
-### `npm run build`
+🔥 Compatible with a wide range of websites and services.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Stay safe online with 2FA Authenticator—your trusted companion for enhanced security.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Install on Google Chrome
 
-### `npm run eject`
+Find this extension on the [Chrome Web Store.](https://chromewebstore.google.com/detail/2fa-authenticator/lihconfopkpbjpkbbcpofjofmpaopgol?hl=en)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## How to build
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone git@github.com:buigiathanh/2FA-Authenticator.git
+cd 2FA-Authenticator
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+npm install
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+npm run build:extension
+```
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
