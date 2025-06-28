@@ -127,7 +127,8 @@ const ScanQRCode = () => {
                         let secretKeys = await extension.storage.getItem("list_secret_key_2fa");
                         secretKeys = typeof secretKeys === "string" ? JSON.parse(secretKeys) : [];
                         secretKeys = secretKeys.concat([{
-                            website: issuer,
+                            issuer: issuer,
+                            website: window.location.origin,
                             account: account,
                             secretKey: secret
                         }])

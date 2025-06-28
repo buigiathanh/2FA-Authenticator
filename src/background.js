@@ -46,6 +46,10 @@ const handleSendMessage = (req, sender, res) => {
             res({status: true, data: {version: extension.getManifest().version}})
             return true;
 
+        case "google_analytics":
+            sendGoogleAnalytics(req.data, res);
+            return true;
+
         default:
             res({status: true});
             break;
@@ -61,3 +65,33 @@ const handleSetDataToStorage = async (req, res) => {
     await extension.storage.setItem(req.data.key, req.data.value);
     res({status: true})
 }
+
+const sendGoogleAnalytics = async (data, callback) => {
+    const { en, ep = [], tid, cid, v, t, ul, sr } = data;
+
+    const raw = [
+        `en=${en}`,
+        ...ep.map(item => `ep.${item.key}=${item.value}`)
+    ].join('&');
+
+    const params = {
+        tid: String(tid),
+        cid: String(cid),
+        seg: "1",
+        ...(v && { v: String(v) }),
+        ...(t && { t: String(t) }),
+        ...(ul && { ul: String(ul) }),
+        ...(sr && { sr: String(sr) }),
+    };
+
+    const url = "https://www.google-analytics.com/g/collect?" + new URLSearchParams(params);
+
+    await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "text/plain" },
+        body: raw,
+        redirect: "follow",
+    });
+
+    callback({ status: true });
+};
