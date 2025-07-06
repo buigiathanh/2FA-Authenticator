@@ -6,7 +6,7 @@ const IconAngleDown = ({cname}) => {
                 stroke="currentColor"
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                strokeWidth="2"
+                strokeWidth="1.5"
                 d="m19 9-7 7-7-7"
             />
         </svg>
