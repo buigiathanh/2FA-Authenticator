@@ -10,7 +10,7 @@
 
 **[Ads.extension.vn](https://ads.extension.vn)**
 
-*An advertising platform for browser extensions that helps extension developers monetize their products. Sponsor of Cookie Editor.*
+*An advertising platform for browser extensions that helps extension developers monetize their products. Sponsor of 2FA Authenticator.*
 
 <br/>
 
